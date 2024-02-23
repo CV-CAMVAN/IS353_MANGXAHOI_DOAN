@@ -1,0 +1,403 @@
+industry,City,Cluster
+ IT Services and IT Consulting,Delhi,1
+ Information Technology & Services,Delhi,1
+ Government Administration,Delhi,1
+ Internet Marketplace Platforms,Delhi,1
+ Business Consulting and Services,Delhi,1
+ Wellness and Fitness Services,Delhi,1
+ Financial Services,Delhi,1
+ Technology Information and Internet,Delhi,1
+ E-learning,Delhi,1
+ Education,Delhi,1
+ Staffing and Recruiting,Delhi,1
+ Primary and Secondary Education,Delhi,1
+ Telecommunications,Delhi,1
+ Higher Education,Delhi,1
+ Online Audio and Video Media,Delhi,1
+ Human Resources Services,Delhi,1
+ Software Development,Delhi,1
+ IT Services and IT Consulting,New Delhi,1
+ Advertising Services,New Delhi,1
+ Information Technology & Services,New Delhi,1
+ Financial Services,New Delhi,1
+ Staffing and Recruiting,New Delhi,1
+ Higher Education,New Delhi,1
+ Non-profit Organizations,New Delhi,1
+ Human Resources Services,New Delhi,1
+ Retail Office Equipment,New Delhi,1
+ Motor Vehicle Manufacturing,New Delhi,1
+ Education Administration Programs,New Delhi,1
+ Wellness and Fitness Services,New Delhi,1
+ Public Relations and Communications Services,New Delhi,1
+ E-Learning Providers,New Delhi,1
+ Medical Equipment Manufacturing,New Delhi,1
+ Government Administration,New Delhi,1
+ IT Services and IT Consulting,Greater Bengaluru Area,1
+ Information Technology & Services,Greater Bengaluru Area,1
+ Technology Information and Internet,Greater Bengaluru Area,1
+ Software Development,Greater Bengaluru Area,1
+ Financial Services,Greater Bengaluru Area,1
+ Entertainment Providers,Greater Bengaluru Area,1
+ Computer and Network Security,Greater Bengaluru Area,1
+ Manufacturing,Greater Bengaluru Area,1
+ Advertising Services,Greater Bengaluru Area,1
+ Media Production,Greater Bengaluru Area,1
+ Automation Machinery Manufacturing,Greater Bengaluru Area,1
+ Civil Engineering,Greater Bengaluru Area,1
+ Renewable Energy Semiconductor Manufacturing,Greater Bengaluru Area,1
+ Hospitals and Health Care,Greater Bengaluru Area,1
+ Pharmaceutical Manufacturing,Greater Bengaluru Area,1
+ Telecommunications,Gurugram,1
+ Renewable Energy Semiconductor Manufacturing,Gurugram,1
+ IT Services and IT Consulting,Gurugram,1
+ Non-profit Organizations,Gurugram,1
+ Information Technology & Services,Gurugram,1
+ Book and Periodical Publishing,Gurugram,1
+ Technology Information and Internet,Gurugram,1
+ Human Resources Services,Gurugram,1
+ Financial Services,Gurugram,1
+ Food and Beverage Manufacturing,Gurugram,1
+ Business Consulting and Services,Gurugram,1
+ Manufacturing,Gurugram,1
+ Software Development,Gurugram,1
+ E-Learning Providers,Gurugram,1
+ Higher Education,Gurugram,1
+ Banking,Gurugram,1
+ Internet Publishing,Gurugram,1
+ Staffing and Recruiting,Gurugram,1
+ Transportation Logistics Supply Chain and Storage,Gurugram,1
+ Outsourcing and Offshoring Consulting,Gurugram,1
+ Advertising Services,Gurugram,1
+ Computer Games,Gurugram,1
+ Retail,Gurugram,1
+ Marketing Services,Gurugram,1
+ Real Estate,Gurugram,1
+ Insurance,Gurugram,1
+ Market Research,Gurugram,1
+ Building Materials,Gurugram,1
+ Accounting,Gurugram,1
+ Travel Arrangements,Gurugram,1
+ Personal Care Product Manufacturing,Gurugram,1
+ IT Services and IT Consulting,Bengaluru,1
+ Technology Information and Internet,Bengaluru,1
+ Pharmaceutical Manufacturing,Bengaluru,1
+ Information Services,Bengaluru,1
+ Software Development,Bengaluru,1
+ Business Consulting and Services,Bengaluru,1
+ Airlines and Aviation,Bengaluru,1
+ Outsourcing and Offshoring Consulting,Bengaluru,1
+ Market Research,Bengaluru,1
+ Information Technology & Services,Bengaluru,1
+ Staffing and Recruiting,Bengaluru,1
+ Retail Groceries,Bengaluru,1
+ Retail,Bengaluru,1
+ Civil Engineering,Bengaluru,1
+ Advertising Services,Bengaluru,1
+ Research Services,Bengaluru,1
+ Professional Training and Coaching,Bengaluru,1
+ Telecommunications,Bengaluru,1
+ Financial Services,Bengaluru,1
+ Wireless Services,Bengaluru,1
+ Book and Periodical Publishing,Bengaluru,1
+ Computer Networking Products,Bengaluru,1
+ Non-profit Organizations,Bengaluru,1
+ Computer and Network Security,Bengaluru,1
+ Wellness and Fitness Services,Bengaluru,1
+ Research,Bengaluru,1
+ Motor Vehicle Manufacturing,Bengaluru,1
+ Data Infrastructure and Analytics,Bengaluru,1
+ Hospitals and Health Care,Bengaluru,1
+ Computers and Electronics Manufacturing,Bengaluru,1
+ Aviation & Aerospace,Bengaluru,1
+ Human Resources,Bengaluru,1
+ Consumer Services,Bengaluru,1
+ Accounting,Bengaluru,1
+ Human Resources Services,Bengaluru,1
+ Appliances Electrical and Electronics Manufacturing,Bengaluru,1
+ Banking,Bengaluru,1
+ Blockchain Services,Bengaluru,1
+ Medical Equipment Manufacturing,Bengaluru,1
+ Automotive,Bengaluru,1
+ Aviation and Aerospace Component Manufacturing,Bengaluru,1
+ E-Learning Providers,Bengaluru,1
+ Manufacturing,Bengaluru,1
+ Medical and Diagnostic Laboratories,Bengaluru,1
+ Food and Beverage Services,Bengaluru,1
+ Biotechnology Research,Bengaluru,1
+ Semiconductor Manufacturing,Bengaluru,1
+ Transportation Logistics Supply Chain and Storage,Bengaluru,1
+ Education Administration Programs,Bengaluru,1
+ Media and Telecommunications,Bengaluru,1
+ E-learning,Bengaluru,1
+ Machinery Manufacturing,Bengaluru,1
+ Computer Games,Bengaluru,1
+ Environmental Services,Bengaluru,1
+ Insurance,Bengaluru,1
+ Textile Manufacturing,Bengaluru,1
+ Market Research,Noida,1
+ IT Services and IT Consulting,Noida,1
+ Financial Services,Noida,1
+ Technology Information and Internet,Noida,1
+ Software Development,Noida,1
+ Staffing and Recruiting,Noida,1
+ Information Technology & Services,Noida,1
+ Motor Vehicle Manufacturing,Noida,1
+ Education Administration Programs,Noida,1
+ Human Resources Services,Noida,1
+ Education,Noida,1
+ Professional Services,Noida,1
+ Business Consulting and Services,Noida,1
+ Higher Education,Noida,1
+ Broadcast Media Production and Distribution,Noida,1
+ Automation Machinery Manufacturing,Noida,1
+ IT Services and IT Consulting,Hyderabad,1
+ Information Technology & Services,Hyderabad,1
+ Business Consulting and Services,Hyderabad,1
+ Software Development,Hyderabad,1
+ Financial Services,Hyderabad,1
+ Semiconductors,Hyderabad,1
+ Staffing and Recruiting,Hyderabad,1
+ Spectator Sports,Hyderabad,1
+ Information Services,Hyderabad,1
+ Law Practice,Hyderabad,1
+ Sporting Goods Manufacturing,Hyderabad,1
+ Technology Information and Internet,Hyderabad,1
+ Professional Training and Coaching,Hyderabad,1
+ Retail,Hyderabad,1
+ Wireless Services,Hyderabad,1
+ Semiconductor Manufacturing,Hyderabad,1
+ Computer and Network Security,Hyderabad,1
+ Research Services,Hyderabad,1
+ Advertising Services,Hyderabad,1
+ Biotechnology Research,Hyderabad,1
+ Telecommunications,Hyderabad,1
+ Transportation Logistics Supply Chain and Storage,Hyderabad,1
+ Human Resources Services,Hyderabad,1
+ Computer Games,Hyderabad,1
+ Motor Vehicle Manufacturing,Hyderabad,1
+ Insurance,Hyderabad,1
+ Non-profit Organizations,Hyderabad,1
+ Higher Education,Hyderabad,1
+ IT Services and IT Consulting,Kolkata,0
+ Education Management,Kolkata,0
+ Business Consulting and Services,Kolkata,0
+ Human Resources Services,Pune,1
+ IT Services and IT Consulting,Pune,1
+ Information Technology & Services,Pune,1
+ Financial Services,Pune,1
+ Software Development,Pune,1
+ Staffing and Recruiting,Pune,1
+ Non-profit Organizations,Pune,1
+ Outsourcing and Offshoring Consulting,Pune,1
+ Information Services,Pune,1
+ Translation and Localization,Pune,1
+ Business Consulting and Services,Pune,1
+ Motor Vehicle Manufacturing,Pune,1
+ Technology Information and Internet,Pune,1
+ Market Research,Pune,1
+ Computer Networking Products,Pune,1
+ Internet Publishing,Pune,1
+ Movies Videos and Sound,Pune,1
+ Advertising Services,Pune,1
+ Telecommunications,Pune,1
+ Farming,Pune,1
+ Medical Equipment Manufacturing,Pune,1
+ Industrial Machinery Manufacturing,Pune,1
+ Marketing Services,Pune,1
+ IT Services and IT Consulting,Chennai,1
+ Information Technology & Services,Chennai,1
+ Software Development,Chennai,1
+ Media and Telecommunications,Chennai,1
+ Human Resources Services,Chennai,1
+ Internet Publishing,Chennai,1
+ Maritime Transportation,Chennai,1
+ Motor Vehicle Manufacturing,Chennai,1
+ Business Consulting and Services,Chennai,1
+ Outsourcing and Offshoring Consulting,Chennai,1
+ Real Estate,Chennai,1
+ Staffing and Recruiting,Chennai,1
+ Financial Services,Chennai,1
+ Information Services,Chennai,1
+ Wireless Services,Chennai,1
+ Automation Machinery Manufacturing,Chennai,1
+ Consumer Services,Chennai,1
+ Research Services,Chennai,1
+ Technology Information and Internet,Chennai,1
+ Investment Management,Chennai,1
+ Oil and Gas,Chennai,1
+ Banking,Chennai,1
+ Design Services,Chennai,1
+ Food and Beverage Services,Chennai,1
+ Telecommunications,Chennai,1
+ Staffing and Recruiting,Mumbai,1
+ Business Consulting and Services,Mumbai,1
+ IT Services and IT Consulting,Mumbai,1
+ Apparel & Fashion,Mumbai,1
+ Human Resources Services,Mumbai,1
+ Financial Services,Mumbai,1
+ Research Services,Mumbai,1
+ Personal Care Product Manufacturing,Mumbai,1
+ Advertising Services,Mumbai,1
+ Computers and Electronics Manufacturing,Mumbai,1
+ Pharmaceutical Manufacturing,Mumbai,1
+ Marketing Services,Mumbai,1
+ Accounting,Mumbai,1
+ Insurance,Mumbai,1
+ Retail Office Equipment,Mumbai,1
+ Information Technology & Services,Mumbai,1
+ Software Development,Mumbai,1
+ Telecommunications,Mumbai,1
+ Technology Information and Internet,Mumbai,1
+ Consumer Electronics,Mumbai,1
+ Information Services,Mumbai,1
+ Human Resources,Mumbai,1
+ Design Services,Mumbai,1
+ International Trade and Development,Mumbai,1
+ Consumer Services,Mumbai,1
+ Construction,Mumbai,1
+ Manufacturing,Mumbai,1
+ Public Relations and Communications Services,Mumbai,1
+ Computer Games,Mumbai,1
+ Transportation Logistics Supply Chain and Storage,Mumbai,1
+ Textile Manufacturing,Mumbai,1
+ Maritime,Mumbai,1
+ Spectator Sports,Mumbai,1
+ Wholesale Chemical and Allied Products,Mumbai,1
+ Banking,Mumbai,1
+ IT Services and IT Consulting,Mumbai Metropolitan Region,0
+ Banking,Mumbai Metropolitan Region,0
+ Human Resources Services,Mumbai Metropolitan Region,0
+ Accounting,Mumbai Metropolitan Region,0
+ Research Services,Mumbai Metropolitan Region,0
+ IT Services and IT Consulting,Bhopal,0
+ IT Services and IT Consulting,Surat,0
+ IT Services and IT Consulting,Jaipur,0
+ Information Technology & Services,Jaipur,0
+ Human Resources Services,Jaipur,0
+ IT Services and IT Consulting,Chandigarh,0
+ Industrial Machinery Manufacturing,Chandigarh,0
+ Staffing and Recruiting,Chandigarh,0
+ Information Services,Delhi Cantonment,1
+ Human Resources,Gurgaon,0
+ Biotechnology Research,Gurgaon,0
+ IT Services and IT Consulting,Gurgaon,0
+ Outsourcing and Offshoring Consulting,Gurgaon,0
+ Financial Services,Gurgaon,0
+ Construction,Gurgaon,0
+ Media Production,Gurgaon,0
+ IT Services and IT Consulting,Nagpur,0
+ Software Development,Nagpur,0
+ Wholesale Building Materials,Nagpur,0
+ IT Services and IT Consulting,Bangalore Urban,1
+ Human Resources Services,Bangalore Urban,1
+ Retail,Bangalore Urban,1
+ Software Development,Bangalore Urban,1
+ Business Consulting and Services,Bangalore Urban,1
+ Information Technology & Services,Bangalore Urban,1
+ Internet Publishing,Bangalore Urban,1
+ Advertising Services,Bangalore Urban,1
+ Financial Services,Bangalore Urban,1
+ Outsourcing and Offshoring Consulting,Bangalore Urban,1
+ Motor Vehicle Manufacturing,Bangalore Urban,1
+ Telecommunications,Bangalore Urban,1
+ Technology Information and Internet,Bangalore Urban,1
+ Biotechnology Research,Bangalore Urban,1
+ E-Learning Providers,Bangalore Urban,1
+ Retail Apparel and Fashion,Bangalore Urban,1
+ Hospitals and Health Care,Bangalore Urban,1
+ IT Services and IT Consulting,Ahmedabad,0
+ Retail,Ahmedabad,0
+ Utilities,Ahmedabad,0
+ Outsourcing/Offshoring,Ahmedabad,0
+ Financial Services,Ahmedabad,0
+ Staffing and Recruiting,Ahmedabad,0
+ Advertising Services,Ahmedabad,0
+ Motor Vehicle Manufacturing,Ahmedabad,0
+ IT Services and IT Consulting,Kalyan,0
+ IT Services and IT Consulting,Ludhiana,0
+ IT Services and IT Consulting,Amritsar,0
+ IT Services and IT Consulting,Patna,0
+ IT Services and IT Consulting,Thiruvananthapuram,0
+ Telecommunications,Kochi,0
+ IT Services and IT Consulting,Kochi,0
+ Computer and Network Security,Kochi,0
+ Software Development,Kochi,0
+ Oil and Gas,Indore,0
+ IT Services and IT Consulting,Indore,0
+ Information Services,Indore,0
+ Information Technology & Services,Pune/Pimpri-Chinchwad Area,0
+ IT Services and IT Consulting,Pune/Pimpri-Chinchwad Area,0
+ Staffing and Recruiting,Pune/Pimpri-Chinchwad Area,0
+ Business Consulting and Services,Dehradun,0
+ IT Services and IT Consulting,Dehradun,0
+ Staffing and Recruiting,Dehradun,0
+ IT Services and IT Consulting,Greater Hyderabad Area,0
+ Information Services,Greater Hyderabad Area,0
+ Computers and Electronics Manufacturing,Greater Hyderabad Area,0
+ IT Services and IT Consulting,Lucknow,0
+ IT Services and IT Consulting,Sahibzada Ajit Singh Nagar,0
+ IT Services and IT Consulting,Coimbatore,0
+ Hospitals and Health Care,Coimbatore,0
+ Software Development,Coimbatore,0
+ Information Technology & Services,Kozhikode,1
+ IT Services and IT Consulting,Rajkot,0
+ Financial Services,Rajkot,0
+ IT Services and IT Consulting,Kanpur,0
+ Staffing and Recruiting,Navi Mumbai,0
+ Business Consulting and Services,Navi Mumbai,0
+ IT Services and IT Consulting,Navi Mumbai,0
+ Telecommunications,Navi Mumbai,0
+ Civil Engineering,Navi Mumbai,0
+ Human Resources,Navi Mumbai,0
+ Technology Information and Internet,Navi Mumbai,0
+ IT Services and IT Consulting,Pimpri Chinchwad,0
+ IT Services and IT Consulting,Greater Delhi Area,0
+ Wellness and Fitness Services,Greater Delhi Area,0
+ Higher Education,Greater Delhi Area,0
+ Staffing and Recruiting,Greater Delhi Area,0
+ Consumer Services,Greater Delhi Area,0
+ IT Services and IT Consulting,Greater Coimbatore Area,0
+ IT Services and IT Consulting,Ghaziabad,0
+ Packaging and Containers Manufacturing,Ghaziabad,0
+ Manufacturing,Ghaziabad,0
+ Information Technology & Services,Bhubaneshwar,1
+ IT Services and IT Consulting,Bangalore Urban district,0
+ IT Services and IT Consulting,Srinagar,0
+ Farming,Aurangabad,1
+ Information Technology & Services,Vishakhapatnam,0
+ Human Resources Services,Vishakhapatnam,0
+ IT Services and IT Consulting,Vishakhapatnam,0
+ Software Development,Bengaluru East,1
+ IT Services and IT Consulting,Visakhapatnam,0
+ IT Services and IT Consulting,Thane,0
+ Software Development,Thane,0
+ Technology Information and Internet,Alipur,1
+ IT Services and IT Consulting,Vadodara,0
+ Information Services,Vadodara,0
+ Higher Education,Ernakulam,1
+ Staffing and Recruiting,Mohali district,0
+ IT Services and IT Consulting,Mohali district,0
+ Information Technology & Services,Jammu,1
+ IT Services and IT Consulting,Greater Ahmedabad Area,0
+ IT Services and IT Consulting,Greater Chennai Area,0
+ IT Services and IT Consulting,Faridabad,0
+ Education Administration Programs,Faridabad,0
+ IT Services and IT Consulting,Jamshedpur,0
+ IT Services and IT Consulting,Bhubaneswar,0
+ IT Services and IT Consulting,Trivandrum,0
+ IT Services and IT Consulting,Agra,0
+ Software Development,Vijayawada,1
+ Staffing and Recruiting,Vijayawada,1
+ IT Services and IT Consulting,Greater Nagpur Area,0
+ Motor Vehicle Manufacturing,Silao,1
+ Staffing and Recruiting,Jalandhar,1
+ Translation and Localization,Dadri,1
+ IT Services and IT Consulting,Mangaluru,0
+ IT Services and IT Consulting,Greater Kolkata Area,0
+ Business Consulting and Services,Greater Kolkata Area,0
+ Pharmaceutical Manufacturing,Ahmednagar,1
+ Wholesale Building Materials,Midnapore,0
+ E-Learning Providers,Raipur,1
+ Machinery Manufacturing,Gandhinagar,1
+ IT Services and IT Consulting,Gautam Buddha Nagar,0
+ IT Services and IT Consulting,Sriperumbudur,0

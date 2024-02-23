@@ -1,0 +1,404 @@
+industry,City,CityID,IndustryID,cluster
+ IT Services and IT Consulting,Delhi,18,42,1
+ IT Services and IT Consulting,New Delhi,55,42,0
+ IT Services and IT Consulting,Greater Bengaluru Area,26,42,1
+ Telecommunications,Gurugram,34,92,2
+ IT Services and IT Consulting,Bengaluru,8,42,1
+ Renewable Energy Semiconductor Manufacturing,Gurugram,34,78,2
+ Market Research,Noida,56,56,0
+ IT Services and IT Consulting,Hyderabad,35,42,0
+ IT Services and IT Consulting,Kolkata,44,42,0
+ Technology Information and Internet,Bengaluru,8,91,2
+ IT Services and IT Consulting,Gurugram,34,42,0
+ Pharmaceutical Manufacturing,Bengaluru,8,72,2
+ Information Technology & Services,Greater Bengaluru Area,26,45,1
+ Human Resources Services,Pune,59,41,0
+ IT Services and IT Consulting,Chennai,14,42,1
+ IT Services and IT Consulting,Pune,59,42,0
+ Staffing and Recruiting,Mumbai,51,90,2
+ Business Consulting and Services,Mumbai,51,15,0
+ Information Technology & Services,Hyderabad,35,45,0
+ IT Services and IT Consulting,Noida,56,42,0
+ Information Services,Bengaluru,8,44,1
+ Software Development,Bengaluru,8,87,2
+ Information Technology & Services,Delhi,18,45,1
+ Information Technology & Services,Pune,59,45,0
+ IT Services and IT Consulting,Mumbai,51,42,0
+ Business Consulting and Services,Hyderabad,35,15,1
+ Business Consulting and Services,Bengaluru,8,15,1
+ Financial Services,Pune,59,34,0
+ IT Services and IT Consulting,Mumbai Metropolitan Region,52,42,0
+ IT Services and IT Consulting,Bhopal,10,42,1
+ IT Services and IT Consulting,Surat,67,42,0
+ IT Services and IT Consulting,Jaipur,37,42,0
+ IT Services and IT Consulting,Chandigarh,13,42,1
+ Information Services,Delhi Cantonment,19,44,1
+ Airlines and Aviation,Bengaluru,8,2,1
+ Outsourcing and Offshoring Consulting,Bengaluru,8,68,2
+ Human Resources,Gurgaon,33,40,1
+ IT Services and IT Consulting,Nagpur,53,42,0
+ IT Services and IT Consulting,Bangalore Urban,6,42,1
+ Software Development,Pune,59,87,2
+ Software Development,Hyderabad,35,87,2
+ IT Services and IT Consulting,Ahmedabad,1,42,1
+ Government Administration,Delhi,18,37,1
+ Human Resources Services,Bangalore Urban,6,41,1
+ IT Services and IT Consulting,Kalyan,41,42,0
+ Technology Information and Internet,Greater Bengaluru Area,26,91,2
+ IT Services and IT Consulting,Ludhiana,47,42,0
+ Market Research,Bengaluru,8,56,1
+ IT Services and IT Consulting,Amritsar,4,42,1
+ IT Services and IT Consulting,Patna,57,42,0
+ Financial Services,Noida,56,34,0
+ IT Services and IT Consulting,Thiruvananthapuram,69,42,0
+ Information Technology & Services,Bengaluru,8,45,1
+ Retail,Bangalore Urban,6,81,2
+ Staffing and Recruiting,Bengaluru,8,90,2
+ Apparel & Fashion,Mumbai,51,3,0
+ Retail Groceries,Bengaluru,8,83,2
+ Retail,Bengaluru,8,81,2
+ Information Technology & Services,Chennai,14,45,1
+ Software Development,Chennai,14,87,2
+ Civil Engineering,Bengaluru,8,16,1
+ Telecommunications,Kochi,43,92,2
+ Software Development,Bangalore Urban,6,87,2
+ Software Development,Greater Bengaluru Area,26,87,2
+ Advertising Services,Bengaluru,8,1,1
+ Staffing and Recruiting,Pune,59,90,2
+ Media and Telecommunications,Chennai,14,59,1
+ Human Resources Services,Mumbai,51,41,0
+ Non-profit Organizations,Pune,59,65,0
+ Banking,Mumbai Metropolitan Region,52,9,0
+ Internet Marketplace Platforms,Delhi,18,48,1
+ Human Resources Services,Chennai,14,41,1
+ Financial Services,Mumbai,51,34,0
+ Research Services,Bengaluru,8,80,2
+ Oil and Gas,Indore,36,66,2
+ Information Technology & Services,Pune/Pimpri-Chinchwad Area,60,45,0
+ Financial Services,Hyderabad,35,34,0
+ IT Services and IT Consulting,Kochi,43,42,0
+ Business Consulting and Services,Bangalore Urban,6,15,1
+ Business Consulting and Services,Dehradun,17,15,1
+ Technology Information and Internet,Noida,56,91,2
+ Software Development,Noida,56,87,2
+ Semiconductors,Hyderabad,35,86,2
+ Information Technology & Services,Bangalore Urban,6,45,1
+ Staffing and Recruiting,Hyderabad,35,90,2
+ Non-profit Organizations,Gurugram,34,65,2
+ IT Services and IT Consulting,Greater Hyderabad Area,30,42,1
+ Software Development,Nagpur,53,87,2
+ Spectator Sports,Hyderabad,35,88,2
+ IT Services and IT Consulting,Lucknow,46,42,0
+ Internet Publishing,Chennai,14,49,1
+ Business Consulting and Services,Delhi,18,15,1
+ Medical Device,Vapi,72,60,0
+ Information Services,Hyderabad,35,44,0
+ Information Technology & Services,Gurugram,34,45,0
+ IT Services and IT Consulting,Sahibzada Ajit Singh Nagar,63,42,0
+ Research Services,Mumbai,51,80,2
+ Law Practice,Hyderabad,35,51,0
+ Internet Publishing,Bangalore Urban,6,49,1
+ Professional Training and Coaching,Bengaluru,8,75,2
+ Personal Care Product Manufacturing,Mumbai,51,71,2
+ Sporting Goods Manufacturing,Hyderabad,35,89,2
+ Financial Services,Greater Bengaluru Area,26,34,1
+ Advertising Services,Mumbai,51,1,0
+ Technology Information and Internet,Hyderabad,35,91,2
+ Maritime Transportation,Chennai,14,55,1
+ Motor Vehicle Manufacturing,Chennai,14,63,2
+ Telecommunications,Bengaluru,8,92,2
+ Financial Services,Bengaluru,8,34,1
+ Computers and Electronics Manufacturing,Mumbai,51,20,0
+ Business Consulting and Services,Chennai,14,15,1
+ Wireless Services,Bengaluru,8,101,2
+ Outsourcing and Offshoring Consulting,Chennai,14,68,2
+ Professional Training and Coaching,Hyderabad,35,75,2
+ Advertising Services,Bangalore Urban,6,1,1
+ Book and Periodical Publishing,Bengaluru,8,12,1
+ Real Estate,Chennai,14,77,2
+ Computer Networking Products,Bengaluru,8,18,1
+ Staffing and Recruiting,Noida,56,90,2
+ Biotechnology Research,Gurgaon,33,10,1
+ Book and Periodical Publishing,Gurugram,34,12,1
+ Technology Information and Internet,Gurugram,34,91,2
+ Pharmaceutical Manufacturing,Mumbai,51,72,2
+ Outsourcing and Offshoring Consulting,Pune,59,68,0
+ Entertainment Providers,Greater Bengaluru Area,26,31,1
+ IT Services and IT Consulting,Coimbatore,15,42,1
+ Marketing Services,Mumbai,51,57,0
+ Information Technology & Services,Noida,56,45,0
+ Information Services,Pune,59,44,0
+ Non-profit Organizations,Bengaluru,8,65,2
+ Computer and Network Security,Bengaluru,8,19,1
+ Wellness and Fitness Services,Bengaluru,8,98,2
+ Translation and Localization,Pune,59,94,2
+ Motor Vehicle Manufacturing,Noida,56,63,0
+ Accounting,Mumbai,51,0,0
+ Human Resources Services,Gurugram,34,41,0
+ Research,Bengaluru,8,79,2
+ Staffing and Recruiting,Chennai,14,90,2
+ Information Technology & Services,Kozhikode,45,45,0
+ Motor Vehicle Manufacturing,Bengaluru,8,63,2
+ IT Services and IT Consulting,Gurgaon,33,42,0
+ IT Services and IT Consulting,Rajkot,62,42,0
+ Data Infrastructure and Analytics,Bengaluru,8,24,1
+ IT Services and IT Consulting,Kanpur,42,42,0
+ Hospitals and Health Care,Bengaluru,8,39,1
+ Business Consulting and Services,Pune,59,15,0
+ Financial Services,Chennai,14,34,1
+ Insurance,Mumbai,51,46,0
+ Staffing and Recruiting,Navi Mumbai,54,90,2
+ Motor Vehicle Manufacturing,Pune,59,63,0
+ Industrial Machinery Manufacturing,Chandigarh,13,43,1
+ Information Services,Chennai,14,44,1
+ Financial Services,Bangalore Urban,6,34,1
+ IT Services and IT Consulting,Dehradun,17,42,1
+ IT Services and IT Consulting,Pune/Pimpri-Chinchwad Area,60,42,0
+ Human Resources Services,Mumbai Metropolitan Region,52,41,0
+ Technology Information and Internet,Pune,59,91,2
+ Retail Office Equipment,Mumbai,51,84,2
+ IT Services and IT Consulting,Pimpri Chinchwad,58,42,0
+ IT Services and IT Consulting,Indore,36,42,0
+ Market Research,Pune,59,56,0
+ Information Technology & Services,Mumbai,51,45,0
+ Computer and Network Security,Greater Bengaluru Area,26,19,1
+ Computers and Electronics Manufacturing,Bengaluru,8,20,1
+ Wireless Services,Chennai,14,101,2
+ IT Services and IT Consulting,Greater Delhi Area,29,42,1
+ Aviation & Aerospace,Bengaluru,8,7,1
+ Financial Services,Gurugram,34,34,1
+ Human Resources,Bengaluru,8,40,1
+ Consumer Services,Bengaluru,8,23,1
+ Computer Networking Products,Pune,59,18,0
+ Automation Machinery Manufacturing,Chennai,14,5,1
+ Accounting,Bengaluru,8,0,1
+ IT Services and IT Consulting,Greater Coimbatore Area,28,42,1
+ IT Services and IT Consulting,Ghaziabad,24,42,1
+ Food and Beverage Manufacturing,Gurugram,34,35,1
+ Education Administration Programs,Noida,56,29,0
+ Business Consulting and Services,Gurugram,34,15,1
+ Human Resources Services,Bengaluru,8,41,1
+ Information Technology & Services,Bhubaneshwar,11,45,1
+ Advertising Services,New Delhi,55,1,0
+ Wellness and Fitness Services,Delhi,18,98,2
+ Financial Services,Delhi,18,34,1
+ Human Resources Services,Noida,56,41,0
+ Retail,Hyderabad,35,81,2
+ IT Services and IT Consulting,Bangalore Urban district,7,42,1
+ IT Services and IT Consulting,Srinagar,65,42,0
+ Appliances Electrical and Electronics Manufacturing,Bengaluru,8,4,1
+ Banking,Bengaluru,8,9,1
+ Farming,Aurangabad,5,33,1
+ Information Technology & Services,New Delhi,55,45,0
+ Information Technology & Services,Vishakhapatnam,75,45,0
+ Software Development,Bengaluru East,9,87,2
+ IT Services and IT Consulting,Visakhapatnam,74,42,0
+ IT Services and IT Consulting,Thane,68,42,0
+ Wireless Services,Hyderabad,35,101,2
+ Blockchain Services,Bengaluru,8,11,1
+ Manufacturing,Gurugram,34,53,0
+ Packaging and Containers Manufacturing,Ghaziabad,24,70,2
+ Technology Information and Internet,Delhi,18,91,2
+ Technology Information and Internet,Alipur,3,91,2
+ Medical Equipment Manufacturing,Bengaluru,8,61,2
+ Software Development,Mumbai,51,87,2
+ E-learning,Delhi,18,27,1
+ Telecommunications,Mumbai,51,92,2
+ Software Development,Gurugram,34,87,2
+ Human Resources Services,Vishakhapatnam,75,41,0
+ Technology Information and Internet,Mumbai,51,91,2
+ IT Services and IT Consulting,Vadodara,71,42,0
+ Automotive,Bengaluru,8,6,1
+ Higher Education,Ernakulam,20,38,1
+ Staffing and Recruiting,Mohali district,50,90,2
+ Education,Delhi,18,28,1
+ Semiconductor Manufacturing,Hyderabad,35,85,2
+ Software Development,Thane,68,87,2
+ Outsourcing and Offshoring Consulting,Bangalore Urban,6,68,2
+ Outsourcing and Offshoring Consulting,Gurgaon,33,68,2
+ Consumer Services,Chennai,14,23,1
+ E-Learning Providers,Gurugram,34,26,1
+ Information Services,Vadodara,71,44,0
+ Manufacturing,Greater Bengaluru Area,26,53,1
+ Financial Services,Gurgaon,33,34,1
+ Information Technology & Services,Jammu,39,45,0
+ Higher Education,Gurugram,34,38,0
+ IT Services and IT Consulting,Greater Ahmedabad Area,25,42,1
+ IT Services and IT Consulting,Greater Chennai Area,27,42,1
+ Banking,Gurugram,34,9,1
+ Consumer Electronics,Mumbai,51,22,0
+ Aviation and Aerospace Component Manufacturing,Bengaluru,8,8,1
+ Hospitals and Health Care,Coimbatore,15,39,1
+ Information Technology & Services,Jaipur,37,45,0
+ Research Services,Chennai,14,80,2
+ IT Services and IT Consulting,Faridabad,21,42,1
+ Staffing and Recruiting,Delhi,18,90,2
+ E-Learning Providers,Bengaluru,8,26,1
+ Business Consulting and Services,Navi Mumbai,54,15,0
+ Internet Publishing,Gurugram,34,49,0
+ Manufacturing,Bengaluru,8,53,1
+ Information Services,Mumbai,51,44,0
+ Computer and Network Security,Hyderabad,35,19,1
+ Medical and Diagnostic Laboratories,Bengaluru,8,62,2
+ Food and Beverage Services,Bengaluru,8,36,1
+ IT Services and IT Consulting,Jamshedpur,40,42,0
+ IT Services and IT Consulting,Bhubaneswar,12,42,1
+ Education,Noida,56,28,0
+ Biotechnology Research,Bengaluru,8,10,1
+ Technology Information and Internet,Chennai,14,91,2
+ Semiconductor Manufacturing,Bengaluru,8,85,2
+ IT Services and IT Consulting,Trivandrum,70,42,0
+ Motor Vehicle Manufacturing,Bangalore Urban,6,63,2
+ IT Services and IT Consulting,Agra,0,42,1
+ Software Development,Vijayawada,73,87,2
+ Advertising Services,Greater Bengaluru Area,26,1,1
+ Research Services,Hyderabad,35,80,2
+ Wholesale Building Materials,Nagpur,53,99,2
+ Transportation Logistics Supply Chain and Storage,Bengaluru,8,95,2
+ Media Production,Greater Bengaluru Area,26,58,2
+ Staffing and Recruiting,Pune/Pimpri-Chinchwad Area,60,90,2
+ Telecommunications,Bangalore Urban,6,92,2
+ Education Administration Programs,Faridabad,21,29,1
+ Advertising Services,Hyderabad,35,1,1
+ Investment Management,Chennai,14,50,1
+ Biotechnology Research,Hyderabad,35,10,1
+ Telecommunications,Hyderabad,35,92,2
+ IT Services and IT Consulting,Navi Mumbai,54,42,0
+ Automation Machinery Manufacturing,Greater Bengaluru Area,26,5,1
+ Staffing and Recruiting,Gurugram,34,90,2
+ Civil Engineering,Greater Bengaluru Area,26,16,1
+ Human Resources,Mumbai,51,40,0
+ Internet Publishing,Pune,59,49,0
+ Retail,Ahmedabad,1,81,2
+ Design Services,Mumbai,51,25,0
+ Professional Services,Noida,56,74,2
+ Technology Information and Internet,Bangalore Urban,6,91,2
+ International Trade and Development,Mumbai,51,47,0
+ Staffing and Recruiting,Vijayawada,73,90,2
+ Education Management,Kolkata,44,30,0
+ Transportation Logistics Supply Chain and Storage,Gurugram,34,95,2
+ Consumer Services,Mumbai,51,23,0
+ Construction,Gurgaon,33,21,1
+ Construction,Mumbai,51,21,0
+ IT Services and IT Consulting,Greater Nagpur Area,32,42,1
+ Manufacturing,Mumbai,51,53,0
+ Wellness and Fitness Services,Greater Delhi Area,29,98,2
+ Public Relations and Communications Services,Mumbai,51,76,2
+ Utilities,Ahmedabad,1,97,2
+ Outsourcing and Offshoring Consulting,Gurugram,34,68,2
+ Business Consulting and Services,Noida,56,15,0
+ Financial Services,New Delhi,55,34,0
+ Education Administration Programs,Bengaluru,8,29,1
+ Oil and Gas,Chennai,14,66,2
+ Computer Games,Mumbai,51,17,0
+ Telecommunications,Navi Mumbai,54,92,2
+ Primary and Secondary Education,Delhi,18,73,2
+ Renewable Energy Semiconductor Manufacturing,Greater Bengaluru Area,26,78,2
+ Transportation Logistics Supply Chain and Storage,Mumbai,51,95,2
+ Transportation Logistics Supply Chain and Storage,Hyderabad,35,95,2
+ Human Resources Services,Hyderabad,35,41,0
+ Information Services,Indore,36,44,0
+ Motor Vehicle Manufacturing,Silao,64,63,0
+ Media and Telecommunications,Bengaluru,8,59,1
+ Computer Games,Hyderabad,35,17,1
+ Textile Manufacturing,Mumbai,51,93,2
+ Maritime,Mumbai,51,54,0
+ Staffing and Recruiting,Jalandhar,38,90,2
+ Motor Vehicle Manufacturing,Hyderabad,35,63,2
+ Civil Engineering,Navi Mumbai,54,16,0
+ Biotechnology Research,Bangalore Urban,6,10,1
+ Advertising Services,Gurugram,34,1,1
+ Software Development,Coimbatore,15,87,2
+ Outsourcing/Offshoring,Ahmedabad,1,69,2
+ Computer and Network Security,Kochi,43,19,0
+ Accounting,Mumbai Metropolitan Region,52,0,0
+ E-learning,Bengaluru,8,27,1
+ E-Learning Providers,Bangalore Urban,6,26,1
+ Information Services,Greater Hyderabad Area,30,44,1
+ Movies Videos and Sound,Pune,59,64,0
+ Spectator Sports,Mumbai,51,88,2
+ IT Services and IT Consulting,Mohali district,50,42,0
+ Computers and Electronics Manufacturing,Greater Hyderabad Area,30,20,1
+ Staffing and Recruiting,New Delhi,55,90,2
+ Staffing and Recruiting,Chandigarh,13,90,2
+ Research Services,Mumbai Metropolitan Region,52,80,2
+ Telecommunications,Delhi,18,92,2
+ Machinery Manufacturing,Bengaluru,8,52,1
+ Manufacturing,Ghaziabad,24,53,1
+ Hospitals and Health Care,Greater Bengaluru Area,26,39,1
+ Higher Education,Delhi,18,38,1
+ Higher Education,New Delhi,55,38,0
+ Non-profit Organizations,New Delhi,55,65,0
+ Computer Games,Gurugram,34,17,1
+ Online Audio and Video Media,Delhi,18,67,2
+ Retail,Gurugram,34,81,2
+ Human Resources Services,Delhi,18,41,1
+ Human Resources Services,New Delhi,55,41,0
+ Retail Office Equipment,New Delhi,55,84,2
+ Marketing Services,Gurugram,34,57,0
+ Higher Education,Noida,56,38,0
+ Real Estate,Gurugram,34,77,2
+ Insurance,Hyderabad,35,46,0
+ Motor Vehicle Manufacturing,New Delhi,55,63,0
+ Broadcast Media Production and Distribution,Noida,56,13,0
+ Education Administration Programs,New Delhi,55,29,0
+ Higher Education,Greater Delhi Area,29,38,1
+ Staffing and Recruiting,Greater Delhi Area,29,90,2
+ Wellness and Fitness Services,New Delhi,55,98,2
+ Public Relations and Communications Services,New Delhi,55,76,2
+ Insurance,Gurugram,34,46,0
+ E-Learning Providers,New Delhi,55,26,0
+ Media Production,Gurgaon,33,58,2
+ Banking,Chennai,14,9,1
+ Consumer Services,Greater Delhi Area,29,23,1
+ Translation and Localization,Dadri,16,94,2
+ Computer Games,Bengaluru,8,17,1
+ Staffing and Recruiting,Dehradun,17,90,2
+ Financial Services,Ahmedabad,1,34,1
+ Non-profit Organizations,Hyderabad,35,65,2
+ Staffing and Recruiting,Ahmedabad,1,90,2
+ Advertising Services,Pune,59,1,0
+ Environmental Services,Bengaluru,8,32,1
+ Telecommunications,Pune,59,92,2
+ Human Resources Services,Jaipur,37,41,0
+ IT Services and IT Consulting,Mangaluru,48,42,0
+ Software Development,Delhi,18,87,2
+ Design Services,Chennai,14,25,1
+ Farming,Pune,59,33,0
+ Retail Apparel and Fashion,Bangalore Urban,6,82,2
+ Medical Equipment Manufacturing,Pune,59,61,0
+ Food and Beverage Services,Chennai,14,36,1
+ IT Services and IT Consulting,Greater Kolkata Area,31,42,1
+ Insurance,Bengaluru,8,46,1
+ Market Research,Gurugram,34,56,0
+ Building Materials,Gurugram,34,14,1
+ Industrial Machinery Manufacturing,Pune,59,43,0
+ Advertising Services,Ahmedabad,1,1,1
+ Telecommunications,Chennai,14,92,2
+ Textile Manufacturing,Bengaluru,8,93,2
+ Accounting,Gurugram,34,0,1
+ Travel Arrangements,Gurugram,34,96,2
+ Medical Equipment Manufacturing,New Delhi,55,61,0
+ Human Resources,Navi Mumbai,54,40,0
+ Higher Education,Hyderabad,35,38,0
+ Automation Machinery Manufacturing,Noida,56,5,0
+ Government Administration,New Delhi,55,37,0
+ Pharmaceutical Manufacturing,Ahmednagar,2,72,2
+ Financial Services,Rajkot,62,34,0
+ Wholesale Building Materials,Midnapore,49,99,2
+ Business Consulting and Services,Kolkata,44,15,0
+ Wholesale Chemical and Allied Products,Mumbai,51,100,2
+ Motor Vehicle Manufacturing,Ahmedabad,1,63,2
+ E-Learning Providers,Raipur,61,26,0
+ Marketing Services,Pune,59,57,0
+ Machinery Manufacturing,Gandhinagar,22,52,1
+ Pharmaceutical Manufacturing,Greater Bengaluru Area,26,72,2
+ IT Services and IT Consulting,Gautam Buddha Nagar,23,42,1
+ Banking,Mumbai,51,9,0
+ IT Services and IT Consulting,Vishakhapatnam,75,42,0
+ Personal Care Product Manufacturing,Gurugram,34,71,2
+ IT Services and IT Consulting,Sriperumbudur,66,42,0
+ Software Development,Kochi,43,87,2
+ Business Consulting and Services,Greater Kolkata Area,31,15,1
+ Technology Information and Internet,Navi Mumbai,54,91,2
+ Hospitals and Health Care,Bangalore Urban,6,39,1

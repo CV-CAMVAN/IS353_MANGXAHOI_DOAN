@@ -1,0 +1,1855 @@
+,source,target,weight
+0,Delhi,Bhubaneswar,{'weight': 1}
+1,Delhi,Gautam Buddha Nagar,{'weight': 1}
+2,Delhi,Bengaluru,{'weight': 11}
+3,Delhi,Kalyan,{'weight': 1}
+4,Delhi,Greater Ahmedabad Area,{'weight': 1}
+5,Delhi,Jamshedpur,{'weight': 1}
+6,Delhi,Bangalore Urban district,{'weight': 1}
+7,Delhi,Lucknow,{'weight': 1}
+8,Delhi,Mohali district,{'weight': 2}
+9,Delhi,Trivandrum,{'weight': 1}
+10,Delhi,Indore,{'weight': 1}
+11,Delhi,Coimbatore,{'weight': 2}
+12,Delhi,Chennai,{'weight': 9}
+13,Delhi,Pune/Pimpri-Chinchwad Area,{'weight': 3}
+14,Delhi,Chandigarh,{'weight': 2}
+15,Delhi,Hyderabad,{'weight': 10}
+16,Delhi,Pimpri Chinchwad,{'weight': 1}
+17,Delhi,Gurgaon,{'weight': 2}
+18,Delhi,Bhopal,{'weight': 1}
+19,Delhi,Patna,{'weight': 1}
+20,Delhi,Greater Coimbatore Area,{'weight': 1}
+21,Delhi,Greater Hyderabad Area,{'weight': 1}
+22,Delhi,Sriperumbudur,{'weight': 1}
+23,Delhi,Srinagar,{'weight': 1}
+24,Delhi,Ahmedabad,{'weight': 3}
+25,Delhi,Vadodara,{'weight': 1}
+26,Delhi,Greater Delhi Area,{'weight': 4}
+27,Delhi,Dehradun,{'weight': 3}
+28,Delhi,Navi Mumbai,{'weight': 5}
+29,Delhi,Pune,{'weight': 9}
+30,Delhi,Ghaziabad,{'weight': 1}
+31,Delhi,Vishakhapatnam,{'weight': 3}
+32,Delhi,Mumbai Metropolitan Region,{'weight': 2}
+33,Delhi,Rajkot,{'weight': 2}
+34,Delhi,Ludhiana,{'weight': 1}
+35,Delhi,Amritsar,{'weight': 1}
+36,Delhi,Mangaluru,{'weight': 1}
+37,Delhi,Alipur,{'weight': 1}
+38,Delhi,Kanpur,{'weight': 1}
+39,Delhi,Gurugram,{'weight': 10}
+40,Delhi,Surat,{'weight': 1}
+41,Delhi,Kochi,{'weight': 3}
+42,Delhi,Faridabad,{'weight': 1}
+43,Delhi,Jammu,{'weight': 1}
+44,Delhi,Greater Chennai Area,{'weight': 1}
+45,Delhi,Bengaluru East,{'weight': 1}
+46,Delhi,Jalandhar,{'weight': 1}
+47,Delhi,Mumbai,{'weight': 9}
+48,Delhi,Sahibzada Ajit Singh Nagar,{'weight': 1}
+49,Delhi,Vijayawada,{'weight': 2}
+50,Delhi,Bhubaneshwar,{'weight': 1}
+51,Delhi,Thane,{'weight': 2}
+52,Delhi,Nagpur,{'weight': 2}
+53,Delhi,Visakhapatnam,{'weight': 1}
+54,Delhi,Thiruvananthapuram,{'weight': 1}
+55,Delhi,Agra,{'weight': 1}
+56,Delhi,Ernakulam,{'weight': 1}
+57,Delhi,Greater Bengaluru Area,{'weight': 5}
+58,Delhi,Noida,{'weight': 10}
+59,Delhi,Kolkata,{'weight': 2}
+60,Delhi,Greater Kolkata Area,{'weight': 2}
+61,Delhi,Jaipur,{'weight': 3}
+62,Delhi,Kozhikode,{'weight': 1}
+63,Delhi,New Delhi,{'weight': 8}
+64,Delhi,Bangalore Urban,{'weight': 8}
+65,Delhi,Greater Nagpur Area,{'weight': 1}
+66,New Delhi,Bhubaneswar,{'weight': 1}
+67,New Delhi,Gautam Buddha Nagar,{'weight': 1}
+68,New Delhi,Bengaluru,{'weight': 12}
+69,New Delhi,Kalyan,{'weight': 1}
+70,New Delhi,Greater Ahmedabad Area,{'weight': 1}
+71,New Delhi,Jamshedpur,{'weight': 1}
+72,New Delhi,Bangalore Urban district,{'weight': 1}
+73,New Delhi,Lucknow,{'weight': 1}
+74,New Delhi,Mohali district,{'weight': 2}
+75,New Delhi,Trivandrum,{'weight': 1}
+76,New Delhi,Indore,{'weight': 1}
+77,New Delhi,Coimbatore,{'weight': 1}
+78,New Delhi,Chennai,{'weight': 6}
+79,New Delhi,Pune/Pimpri-Chinchwad Area,{'weight': 3}
+80,New Delhi,Chandigarh,{'weight': 2}
+81,New Delhi,Hyderabad,{'weight': 9}
+82,New Delhi,Pimpri Chinchwad,{'weight': 1}
+83,New Delhi,Gurgaon,{'weight': 2}
+84,New Delhi,Bhopal,{'weight': 1}
+85,New Delhi,Patna,{'weight': 1}
+86,New Delhi,Greater Coimbatore Area,{'weight': 1}
+87,New Delhi,Greater Hyderabad Area,{'weight': 1}
+88,New Delhi,Sriperumbudur,{'weight': 1}
+89,New Delhi,Srinagar,{'weight': 1}
+90,New Delhi,Raipur,{'weight': 1}
+91,New Delhi,Ahmedabad,{'weight': 5}
+92,New Delhi,Vadodara,{'weight': 1}
+93,New Delhi,Greater Delhi Area,{'weight': 4}
+94,New Delhi,Dehradun,{'weight': 2}
+95,New Delhi,Navi Mumbai,{'weight': 2}
+96,New Delhi,Pune,{'weight': 9}
+97,New Delhi,Ghaziabad,{'weight': 1}
+98,New Delhi,Silao,{'weight': 1}
+99,New Delhi,Vishakhapatnam,{'weight': 3}
+100,New Delhi,Mumbai Metropolitan Region,{'weight': 2}
+101,New Delhi,Rajkot,{'weight': 2}
+102,New Delhi,Ludhiana,{'weight': 1}
+103,New Delhi,Amritsar,{'weight': 1}
+104,New Delhi,Mangaluru,{'weight': 1}
+105,New Delhi,Kanpur,{'weight': 1}
+106,New Delhi,Gurugram,{'weight': 9}
+107,New Delhi,Surat,{'weight': 1}
+108,New Delhi,Faridabad,{'weight': 2}
+109,New Delhi,Kochi,{'weight': 1}
+110,New Delhi,Jammu,{'weight': 1}
+111,New Delhi,Greater Chennai Area,{'weight': 1}
+112,New Delhi,Jalandhar,{'weight': 1}
+113,New Delhi,Mumbai,{'weight': 8}
+114,New Delhi,Sahibzada Ajit Singh Nagar,{'weight': 1}
+115,New Delhi,Vijayawada,{'weight': 1}
+116,New Delhi,Bhubaneshwar,{'weight': 1}
+117,New Delhi,Thane,{'weight': 1}
+118,New Delhi,Nagpur,{'weight': 1}
+119,New Delhi,Visakhapatnam,{'weight': 1}
+120,New Delhi,Thiruvananthapuram,{'weight': 1}
+121,New Delhi,Agra,{'weight': 1}
+122,New Delhi,Ernakulam,{'weight': 1}
+123,New Delhi,Greater Bengaluru Area,{'weight': 4}
+124,New Delhi,Noida,{'weight': 8}
+125,New Delhi,Kolkata,{'weight': 1}
+126,New Delhi,Greater Kolkata Area,{'weight': 1}
+127,New Delhi,Jaipur,{'weight': 3}
+128,New Delhi,Kozhikode,{'weight': 1}
+129,New Delhi,Bangalore Urban,{'weight': 7}
+130,New Delhi,Greater Nagpur Area,{'weight': 1}
+131,Greater Bengaluru Area,Bhubaneswar,{'weight': 1}
+132,Greater Bengaluru Area,Gautam Buddha Nagar,{'weight': 1}
+133,Greater Bengaluru Area,Bengaluru,{'weight': 11}
+134,Greater Bengaluru Area,Kalyan,{'weight': 1}
+135,Greater Bengaluru Area,Greater Ahmedabad Area,{'weight': 1}
+136,Greater Bengaluru Area,Jamshedpur,{'weight': 1}
+137,Greater Bengaluru Area,Bangalore Urban district,{'weight': 1}
+138,Greater Bengaluru Area,Lucknow,{'weight': 1}
+139,Greater Bengaluru Area,Mohali district,{'weight': 1}
+140,Greater Bengaluru Area,Trivandrum,{'weight': 1}
+141,Greater Bengaluru Area,Indore,{'weight': 1}
+142,Greater Bengaluru Area,Coimbatore,{'weight': 3}
+143,Greater Bengaluru Area,Chennai,{'weight': 6}
+144,Greater Bengaluru Area,Pune/Pimpri-Chinchwad Area,{'weight': 2}
+145,Greater Bengaluru Area,Chandigarh,{'weight': 1}
+146,Greater Bengaluru Area,Hyderabad,{'weight': 7}
+147,Greater Bengaluru Area,Pimpri Chinchwad,{'weight': 1}
+148,Greater Bengaluru Area,Gurgaon,{'weight': 3}
+149,Greater Bengaluru Area,Bhopal,{'weight': 1}
+150,Greater Bengaluru Area,Patna,{'weight': 1}
+151,Greater Bengaluru Area,Greater Coimbatore Area,{'weight': 1}
+152,Greater Bengaluru Area,Greater Hyderabad Area,{'weight': 1}
+153,Greater Bengaluru Area,Sriperumbudur,{'weight': 1}
+154,Greater Bengaluru Area,Srinagar,{'weight': 1}
+155,Greater Bengaluru Area,Ahmedabad,{'weight': 3}
+156,Greater Bengaluru Area,Vadodara,{'weight': 1}
+157,Greater Bengaluru Area,Greater Delhi Area,{'weight': 1}
+158,Greater Bengaluru Area,Dehradun,{'weight': 1}
+159,Greater Bengaluru Area,Navi Mumbai,{'weight': 3}
+160,Greater Bengaluru Area,Pune,{'weight': 6}
+161,Greater Bengaluru Area,Ghaziabad,{'weight': 2}
+162,Greater Bengaluru Area,Vishakhapatnam,{'weight': 2}
+163,Greater Bengaluru Area,Mumbai Metropolitan Region,{'weight': 1}
+164,Greater Bengaluru Area,Rajkot,{'weight': 2}
+165,Greater Bengaluru Area,Ludhiana,{'weight': 1}
+166,Greater Bengaluru Area,Amritsar,{'weight': 1}
+167,Greater Bengaluru Area,Mangaluru,{'weight': 1}
+168,Greater Bengaluru Area,Alipur,{'weight': 1}
+169,Greater Bengaluru Area,Kanpur,{'weight': 1}
+170,Greater Bengaluru Area,Gurugram,{'weight': 8}
+171,Greater Bengaluru Area,Surat,{'weight': 1}
+172,Greater Bengaluru Area,Kochi,{'weight': 3}
+173,Greater Bengaluru Area,Faridabad,{'weight': 1}
+174,Greater Bengaluru Area,Jammu,{'weight': 1}
+175,Greater Bengaluru Area,Greater Chennai Area,{'weight': 1}
+176,Greater Bengaluru Area,Bengaluru East,{'weight': 1}
+177,Greater Bengaluru Area,Mumbai,{'weight': 8}
+178,Greater Bengaluru Area,Sahibzada Ajit Singh Nagar,{'weight': 1}
+179,Greater Bengaluru Area,Vijayawada,{'weight': 1}
+180,Greater Bengaluru Area,Bhubaneshwar,{'weight': 1}
+181,Greater Bengaluru Area,Thane,{'weight': 2}
+182,Greater Bengaluru Area,Ahmednagar,{'weight': 1}
+183,Greater Bengaluru Area,Nagpur,{'weight': 2}
+184,Greater Bengaluru Area,Visakhapatnam,{'weight': 1}
+185,Greater Bengaluru Area,Thiruvananthapuram,{'weight': 1}
+186,Greater Bengaluru Area,Agra,{'weight': 1}
+187,Greater Bengaluru Area,Noida,{'weight': 6}
+188,Greater Bengaluru Area,Kolkata,{'weight': 1}
+189,Greater Bengaluru Area,Greater Kolkata Area,{'weight': 1}
+190,Greater Bengaluru Area,Jaipur,{'weight': 2}
+191,Greater Bengaluru Area,Kozhikode,{'weight': 1}
+192,Greater Bengaluru Area,Bangalore Urban,{'weight': 7}
+193,Greater Bengaluru Area,Greater Nagpur Area,{'weight': 1}
+194,Gurugram,Bhubaneswar,{'weight': 1}
+195,Gurugram,Gautam Buddha Nagar,{'weight': 1}
+196,Gurugram,Bengaluru,{'weight': 22}
+197,Gurugram,Kalyan,{'weight': 1}
+198,Gurugram,Greater Ahmedabad Area,{'weight': 1}
+199,Gurugram,Jamshedpur,{'weight': 1}
+200,Gurugram,Bangalore Urban district,{'weight': 1}
+201,Gurugram,Lucknow,{'weight': 1}
+202,Gurugram,Mohali district,{'weight': 2}
+203,Gurugram,Trivandrum,{'weight': 1}
+204,Gurugram,Indore,{'weight': 1}
+205,Gurugram,Coimbatore,{'weight': 2}
+206,Gurugram,Chennai,{'weight': 13}
+207,Gurugram,Pune/Pimpri-Chinchwad Area,{'weight': 3}
+208,Gurugram,Chandigarh,{'weight': 2}
+209,Gurugram,Hyderabad,{'weight': 16}
+210,Gurugram,Pimpri Chinchwad,{'weight': 1}
+211,Gurugram,Gurgaon,{'weight': 3}
+212,Gurugram,Bhopal,{'weight': 1}
+213,Gurugram,Patna,{'weight': 1}
+214,Gurugram,Greater Coimbatore Area,{'weight': 1}
+215,Gurugram,Greater Hyderabad Area,{'weight': 1}
+216,Gurugram,Sriperumbudur,{'weight': 1}
+217,Gurugram,Srinagar,{'weight': 1}
+218,Gurugram,Raipur,{'weight': 1}
+219,Gurugram,Ahmedabad,{'weight': 5}
+220,Gurugram,Vadodara,{'weight': 1}
+221,Gurugram,Greater Delhi Area,{'weight': 3}
+222,Gurugram,Dehradun,{'weight': 3}
+223,Gurugram,Navi Mumbai,{'weight': 5}
+224,Gurugram,Pune,{'weight': 15}
+225,Gurugram,Ghaziabad,{'weight': 2}
+226,Gurugram,Vishakhapatnam,{'weight': 3}
+227,Gurugram,Mumbai Metropolitan Region,{'weight': 4}
+228,Gurugram,Rajkot,{'weight': 2}
+229,Gurugram,Ludhiana,{'weight': 1}
+230,Gurugram,Amritsar,{'weight': 1}
+231,Gurugram,Mangaluru,{'weight': 1}
+232,Gurugram,Alipur,{'weight': 1}
+233,Gurugram,Kanpur,{'weight': 1}
+234,Gurugram,Surat,{'weight': 1}
+235,Gurugram,Kochi,{'weight': 3}
+236,Gurugram,Faridabad,{'weight': 1}
+237,Gurugram,Jammu,{'weight': 1}
+238,Gurugram,Greater Chennai Area,{'weight': 1}
+239,Gurugram,Bengaluru East,{'weight': 1}
+240,Gurugram,Jalandhar,{'weight': 1}
+241,Gurugram,Mumbai,{'weight': 18}
+242,Gurugram,Sahibzada Ajit Singh Nagar,{'weight': 1}
+243,Gurugram,Vijayawada,{'weight': 2}
+244,Gurugram,Thane,{'weight': 2}
+245,Gurugram,Bhubaneshwar,{'weight': 1}
+246,Gurugram,Nagpur,{'weight': 2}
+247,Gurugram,Visakhapatnam,{'weight': 1}
+248,Gurugram,Thiruvananthapuram,{'weight': 1}
+249,Gurugram,Ernakulam,{'weight': 1}
+250,Gurugram,Agra,{'weight': 1}
+251,Gurugram,Noida,{'weight': 10}
+252,Gurugram,Kolkata,{'weight': 2}
+253,Gurugram,Greater Kolkata Area,{'weight': 2}
+254,Gurugram,Jaipur,{'weight': 3}
+255,Gurugram,Kozhikode,{'weight': 1}
+256,Gurugram,Bangalore Urban,{'weight': 13}
+257,Gurugram,Greater Nagpur Area,{'weight': 1}
+258,Bengaluru,Bhubaneswar,{'weight': 1}
+259,Bengaluru,Gautam Buddha Nagar,{'weight': 1}
+260,Bengaluru,Kalyan,{'weight': 1}
+261,Bengaluru,Greater Ahmedabad Area,{'weight': 1}
+262,Bengaluru,Jamshedpur,{'weight': 1}
+263,Bengaluru,Bangalore Urban district,{'weight': 1}
+264,Bengaluru,Lucknow,{'weight': 1}
+265,Bengaluru,Mohali district,{'weight': 2}
+266,Bengaluru,Trivandrum,{'weight': 1}
+267,Bengaluru,Indore,{'weight': 2}
+268,Bengaluru,Coimbatore,{'weight': 3}
+269,Bengaluru,Chennai,{'weight': 18}
+270,Bengaluru,Gandhinagar,{'weight': 1}
+271,Bengaluru,Chandigarh,{'weight': 2}
+272,Bengaluru,Hyderabad,{'weight': 23}
+273,Bengaluru,Pune/Pimpri-Chinchwad Area,{'weight': 3}
+274,Bengaluru,Pimpri Chinchwad,{'weight': 1}
+275,Bengaluru,Gurgaon,{'weight': 5}
+276,Bengaluru,Bhopal,{'weight': 1}
+277,Bengaluru,Patna,{'weight': 1}
+278,Bengaluru,Greater Coimbatore Area,{'weight': 1}
+279,Bengaluru,Greater Hyderabad Area,{'weight': 3}
+280,Bengaluru,Sriperumbudur,{'weight': 1}
+281,Bengaluru,Srinagar,{'weight': 1}
+282,Bengaluru,Raipur,{'weight': 1}
+283,Bengaluru,Ahmedabad,{'weight': 6}
+284,Bengaluru,Vadodara,{'weight': 2}
+285,Bengaluru,Greater Delhi Area,{'weight': 4}
+286,Bengaluru,Dehradun,{'weight': 3}
+287,Bengaluru,Navi Mumbai,{'weight': 7}
+288,Bengaluru,Pune,{'weight': 17}
+289,Bengaluru,Ghaziabad,{'weight': 2}
+290,Bengaluru,Silao,{'weight': 1}
+291,Bengaluru,Vishakhapatnam,{'weight': 3}
+292,Bengaluru,Mumbai Metropolitan Region,{'weight': 5}
+293,Bengaluru,Rajkot,{'weight': 2}
+294,Bengaluru,Ludhiana,{'weight': 1}
+295,Bengaluru,Amritsar,{'weight': 1}
+296,Bengaluru,Mangaluru,{'weight': 1}
+297,Bengaluru,Alipur,{'weight': 1}
+298,Bengaluru,Kanpur,{'weight': 1}
+299,Bengaluru,Surat,{'weight': 1}
+300,Bengaluru,Faridabad,{'weight': 2}
+301,Bengaluru,Kochi,{'weight': 4}
+302,Bengaluru,Jammu,{'weight': 1}
+303,Bengaluru,Greater Chennai Area,{'weight': 1}
+304,Bengaluru,Bengaluru East,{'weight': 1}
+305,Bengaluru,Delhi Cantonment,{'weight': 1}
+306,Bengaluru,Jalandhar,{'weight': 1}
+307,Bengaluru,Mumbai,{'weight': 23}
+308,Bengaluru,Sahibzada Ajit Singh Nagar,{'weight': 1}
+309,Bengaluru,Vijayawada,{'weight': 2}
+310,Bengaluru,Thane,{'weight': 2}
+311,Bengaluru,Bhubaneshwar,{'weight': 1}
+312,Bengaluru,Ahmednagar,{'weight': 1}
+313,Bengaluru,Nagpur,{'weight': 2}
+314,Bengaluru,Visakhapatnam,{'weight': 1}
+315,Bengaluru,Thiruvananthapuram,{'weight': 1}
+316,Bengaluru,Agra,{'weight': 1}
+317,Bengaluru,Noida,{'weight': 11}
+318,Bengaluru,Kolkata,{'weight': 2}
+319,Bengaluru,Greater Kolkata Area,{'weight': 2}
+320,Bengaluru,Jaipur,{'weight': 3}
+321,Bengaluru,Kozhikode,{'weight': 1}
+322,Bengaluru,Bangalore Urban,{'weight': 15}
+323,Bengaluru,Greater Nagpur Area,{'weight': 1}
+324,Noida,Bhubaneswar,{'weight': 1}
+325,Noida,Gautam Buddha Nagar,{'weight': 1}
+326,Noida,Kalyan,{'weight': 1}
+327,Noida,Greater Ahmedabad Area,{'weight': 1}
+328,Noida,Jamshedpur,{'weight': 1}
+329,Noida,Bangalore Urban district,{'weight': 1}
+330,Noida,Lucknow,{'weight': 1}
+331,Noida,Mohali district,{'weight': 2}
+332,Noida,Trivandrum,{'weight': 1}
+333,Noida,Indore,{'weight': 1}
+334,Noida,Coimbatore,{'weight': 2}
+335,Noida,Chennai,{'weight': 10}
+336,Noida,Pune/Pimpri-Chinchwad Area,{'weight': 3}
+337,Noida,Chandigarh,{'weight': 2}
+338,Noida,Hyderabad,{'weight': 10}
+339,Noida,Pimpri Chinchwad,{'weight': 1}
+340,Noida,Gurgaon,{'weight': 2}
+341,Noida,Bhopal,{'weight': 1}
+342,Noida,Patna,{'weight': 1}
+343,Noida,Greater Coimbatore Area,{'weight': 1}
+344,Noida,Greater Hyderabad Area,{'weight': 1}
+345,Noida,Sriperumbudur,{'weight': 1}
+346,Noida,Srinagar,{'weight': 1}
+347,Noida,Ahmedabad,{'weight': 4}
+348,Noida,Vadodara,{'weight': 1}
+349,Noida,Greater Delhi Area,{'weight': 3}
+350,Noida,Dehradun,{'weight': 3}
+351,Noida,Navi Mumbai,{'weight': 4}
+352,Noida,Pune,{'weight': 10}
+353,Noida,Ghaziabad,{'weight': 1}
+354,Noida,Silao,{'weight': 1}
+355,Noida,Vishakhapatnam,{'weight': 3}
+356,Noida,Mumbai Metropolitan Region,{'weight': 2}
+357,Noida,Rajkot,{'weight': 2}
+358,Noida,Ludhiana,{'weight': 1}
+359,Noida,Amritsar,{'weight': 1}
+360,Noida,Mangaluru,{'weight': 1}
+361,Noida,Alipur,{'weight': 1}
+362,Noida,Kanpur,{'weight': 1}
+363,Noida,Surat,{'weight': 1}
+364,Noida,Faridabad,{'weight': 2}
+365,Noida,Kochi,{'weight': 2}
+366,Noida,Jammu,{'weight': 1}
+367,Noida,Greater Chennai Area,{'weight': 1}
+368,Noida,Bengaluru East,{'weight': 1}
+369,Noida,Jalandhar,{'weight': 1}
+370,Noida,Mumbai,{'weight': 8}
+371,Noida,Sahibzada Ajit Singh Nagar,{'weight': 1}
+372,Noida,Vijayawada,{'weight': 2}
+373,Noida,Bhubaneshwar,{'weight': 1}
+374,Noida,Thane,{'weight': 2}
+375,Noida,Nagpur,{'weight': 2}
+376,Noida,Visakhapatnam,{'weight': 1}
+377,Noida,Thiruvananthapuram,{'weight': 1}
+378,Noida,Agra,{'weight': 1}
+379,Noida,Ernakulam,{'weight': 1}
+380,Noida,Kolkata,{'weight': 2}
+381,Noida,Greater Kolkata Area,{'weight': 2}
+382,Noida,Jaipur,{'weight': 3}
+383,Noida,Kozhikode,{'weight': 1}
+384,Noida,Bangalore Urban,{'weight': 8}
+385,Noida,Greater Nagpur Area,{'weight': 1}
+386,Hyderabad,Bhubaneswar,{'weight': 1}
+387,Hyderabad,Gautam Buddha Nagar,{'weight': 1}
+388,Hyderabad,Kalyan,{'weight': 1}
+389,Hyderabad,Greater Ahmedabad Area,{'weight': 1}
+390,Hyderabad,Jamshedpur,{'weight': 1}
+391,Hyderabad,Bangalore Urban district,{'weight': 1}
+392,Hyderabad,Lucknow,{'weight': 1}
+393,Hyderabad,Mohali district,{'weight': 2}
+394,Hyderabad,Trivandrum,{'weight': 1}
+395,Hyderabad,Indore,{'weight': 2}
+396,Hyderabad,Coimbatore,{'weight': 2}
+397,Hyderabad,Chennai,{'weight': 13}
+398,Hyderabad,Pune/Pimpri-Chinchwad Area,{'weight': 3}
+399,Hyderabad,Chandigarh,{'weight': 2}
+400,Hyderabad,Pimpri Chinchwad,{'weight': 1}
+401,Hyderabad,Gurgaon,{'weight': 3}
+402,Hyderabad,Bhopal,{'weight': 1}
+403,Hyderabad,Patna,{'weight': 1}
+404,Hyderabad,Greater Coimbatore Area,{'weight': 1}
+405,Hyderabad,Greater Hyderabad Area,{'weight': 2}
+406,Hyderabad,Sriperumbudur,{'weight': 1}
+407,Hyderabad,Srinagar,{'weight': 1}
+408,Hyderabad,Ahmedabad,{'weight': 6}
+409,Hyderabad,Vadodara,{'weight': 2}
+410,Hyderabad,Greater Delhi Area,{'weight': 3}
+411,Hyderabad,Dehradun,{'weight': 3}
+412,Hyderabad,Navi Mumbai,{'weight': 5}
+413,Hyderabad,Pune,{'weight': 13}
+414,Hyderabad,Ghaziabad,{'weight': 1}
+415,Hyderabad,Silao,{'weight': 1}
+416,Hyderabad,Vishakhapatnam,{'weight': 3}
+417,Hyderabad,Mumbai Metropolitan Region,{'weight': 3}
+418,Hyderabad,Rajkot,{'weight': 2}
+419,Hyderabad,Ludhiana,{'weight': 1}
+420,Hyderabad,Amritsar,{'weight': 1}
+421,Hyderabad,Mangaluru,{'weight': 1}
+422,Hyderabad,Alipur,{'weight': 1}
+423,Hyderabad,Kanpur,{'weight': 1}
+424,Hyderabad,Surat,{'weight': 1}
+425,Hyderabad,Kochi,{'weight': 4}
+426,Hyderabad,Faridabad,{'weight': 1}
+427,Hyderabad,Jammu,{'weight': 1}
+428,Hyderabad,Greater Chennai Area,{'weight': 1}
+429,Hyderabad,Bengaluru East,{'weight': 1}
+430,Hyderabad,Delhi Cantonment,{'weight': 1}
+431,Hyderabad,Jalandhar,{'weight': 1}
+432,Hyderabad,Mumbai,{'weight': 16}
+433,Hyderabad,Sahibzada Ajit Singh Nagar,{'weight': 1}
+434,Hyderabad,Vijayawada,{'weight': 2}
+435,Hyderabad,Thane,{'weight': 2}
+436,Hyderabad,Bhubaneshwar,{'weight': 1}
+437,Hyderabad,Nagpur,{'weight': 2}
+438,Hyderabad,Visakhapatnam,{'weight': 1}
+439,Hyderabad,Thiruvananthapuram,{'weight': 1}
+440,Hyderabad,Ernakulam,{'weight': 1}
+441,Hyderabad,Agra,{'weight': 1}
+442,Hyderabad,Kolkata,{'weight': 2}
+443,Hyderabad,Greater Kolkata Area,{'weight': 2}
+444,Hyderabad,Jaipur,{'weight': 3}
+445,Hyderabad,Kozhikode,{'weight': 1}
+446,Hyderabad,Bangalore Urban,{'weight': 12}
+447,Hyderabad,Greater Nagpur Area,{'weight': 1}
+448,Kolkata,Bhubaneswar,{'weight': 1}
+449,Kolkata,Mumbai Metropolitan Region,{'weight': 1}
+450,Kolkata,Gautam Buddha Nagar,{'weight': 1}
+451,Kolkata,Rajkot,{'weight': 1}
+452,Kolkata,Ludhiana,{'weight': 1}
+453,Kolkata,Kalyan,{'weight': 1}
+454,Kolkata,Greater Ahmedabad Area,{'weight': 1}
+455,Kolkata,Amritsar,{'weight': 1}
+456,Kolkata,Mangaluru,{'weight': 1}
+457,Kolkata,Jamshedpur,{'weight': 1}
+458,Kolkata,Bangalore Urban district,{'weight': 1}
+459,Kolkata,Lucknow,{'weight': 1}
+460,Kolkata,Mohali district,{'weight': 1}
+461,Kolkata,Kanpur,{'weight': 1}
+462,Kolkata,Trivandrum,{'weight': 1}
+463,Kolkata,Indore,{'weight': 1}
+464,Kolkata,Surat,{'weight': 1}
+465,Kolkata,Coimbatore,{'weight': 1}
+466,Kolkata,Chennai,{'weight': 2}
+467,Kolkata,Kochi,{'weight': 1}
+468,Kolkata,Faridabad,{'weight': 1}
+469,Kolkata,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+470,Kolkata,Chandigarh,{'weight': 1}
+471,Kolkata,Pimpri Chinchwad,{'weight': 1}
+472,Kolkata,Greater Chennai Area,{'weight': 1}
+473,Kolkata,Gurgaon,{'weight': 1}
+474,Kolkata,Bhopal,{'weight': 1}
+475,Kolkata,Patna,{'weight': 1}
+476,Kolkata,Mumbai,{'weight': 2}
+477,Kolkata,Sahibzada Ajit Singh Nagar,{'weight': 1}
+478,Kolkata,Greater Coimbatore Area,{'weight': 1}
+479,Kolkata,Greater Hyderabad Area,{'weight': 1}
+480,Kolkata,Sriperumbudur,{'weight': 1}
+481,Kolkata,Srinagar,{'weight': 1}
+482,Kolkata,Thane,{'weight': 1}
+483,Kolkata,Nagpur,{'weight': 1}
+484,Kolkata,Visakhapatnam,{'weight': 1}
+485,Kolkata,Ahmedabad,{'weight': 1}
+486,Kolkata,Thiruvananthapuram,{'weight': 1}
+487,Kolkata,Agra,{'weight': 1}
+488,Kolkata,Vadodara,{'weight': 1}
+489,Kolkata,Greater Delhi Area,{'weight': 1}
+490,Kolkata,Greater Kolkata Area,{'weight': 2}
+491,Kolkata,Jaipur,{'weight': 1}
+492,Kolkata,Dehradun,{'weight': 2}
+493,Kolkata,Navi Mumbai,{'weight': 2}
+494,Kolkata,Pune,{'weight': 2}
+495,Kolkata,Ghaziabad,{'weight': 1}
+496,Kolkata,Vishakhapatnam,{'weight': 1}
+497,Kolkata,Bangalore Urban,{'weight': 2}
+498,Kolkata,Greater Nagpur Area,{'weight': 1}
+499,Pune,Bhubaneswar,{'weight': 1}
+500,Pune,Gautam Buddha Nagar,{'weight': 1}
+501,Pune,Kalyan,{'weight': 1}
+502,Pune,Greater Ahmedabad Area,{'weight': 1}
+503,Pune,Jamshedpur,{'weight': 1}
+504,Pune,Bangalore Urban district,{'weight': 1}
+505,Pune,Lucknow,{'weight': 1}
+506,Pune,Mohali district,{'weight': 2}
+507,Pune,Trivandrum,{'weight': 1}
+508,Pune,Indore,{'weight': 2}
+509,Pune,Coimbatore,{'weight': 2}
+510,Pune,Chennai,{'weight': 13}
+511,Pune,Aurangabad,{'weight': 1}
+512,Pune,Pune/Pimpri-Chinchwad Area,{'weight': 3}
+513,Pune,Chandigarh,{'weight': 3}
+514,Pune,Pimpri Chinchwad,{'weight': 1}
+515,Pune,Gurgaon,{'weight': 3}
+516,Pune,Bhopal,{'weight': 1}
+517,Pune,Patna,{'weight': 1}
+518,Pune,Greater Coimbatore Area,{'weight': 1}
+519,Pune,Greater Hyderabad Area,{'weight': 2}
+520,Pune,Sriperumbudur,{'weight': 1}
+521,Pune,Srinagar,{'weight': 1}
+522,Pune,Ahmedabad,{'weight': 5}
+523,Pune,Vadodara,{'weight': 2}
+524,Pune,Greater Delhi Area,{'weight': 2}
+525,Pune,Dehradun,{'weight': 3}
+526,Pune,Navi Mumbai,{'weight': 5}
+527,Pune,Ghaziabad,{'weight': 1}
+528,Pune,Silao,{'weight': 1}
+529,Pune,Vishakhapatnam,{'weight': 3}
+530,Pune,Mumbai Metropolitan Region,{'weight': 2}
+531,Pune,Rajkot,{'weight': 2}
+532,Pune,Ludhiana,{'weight': 1}
+533,Pune,Amritsar,{'weight': 1}
+534,Pune,Mangaluru,{'weight': 1}
+535,Pune,Alipur,{'weight': 1}
+536,Pune,Kanpur,{'weight': 1}
+537,Pune,Surat,{'weight': 1}
+538,Pune,Kochi,{'weight': 3}
+539,Pune,Faridabad,{'weight': 1}
+540,Pune,Jammu,{'weight': 1}
+541,Pune,Greater Chennai Area,{'weight': 1}
+542,Pune,Bengaluru East,{'weight': 1}
+543,Pune,Delhi Cantonment,{'weight': 1}
+544,Pune,Jalandhar,{'weight': 1}
+545,Pune,Mumbai,{'weight': 12}
+546,Pune,Dadri,{'weight': 1}
+547,Pune,Sahibzada Ajit Singh Nagar,{'weight': 1}
+548,Pune,Vijayawada,{'weight': 2}
+549,Pune,Thane,{'weight': 2}
+550,Pune,Bhubaneshwar,{'weight': 1}
+551,Pune,Nagpur,{'weight': 2}
+552,Pune,Visakhapatnam,{'weight': 1}
+553,Pune,Thiruvananthapuram,{'weight': 1}
+554,Pune,Agra,{'weight': 1}
+555,Pune,Greater Kolkata Area,{'weight': 2}
+556,Pune,Jaipur,{'weight': 3}
+557,Pune,Kozhikode,{'weight': 1}
+558,Pune,Bangalore Urban,{'weight': 12}
+559,Pune,Greater Nagpur Area,{'weight': 1}
+560,Chennai,Bhubaneswar,{'weight': 1}
+561,Chennai,Gautam Buddha Nagar,{'weight': 1}
+562,Chennai,Kalyan,{'weight': 1}
+563,Chennai,Greater Ahmedabad Area,{'weight': 1}
+564,Chennai,Jamshedpur,{'weight': 1}
+565,Chennai,Bangalore Urban district,{'weight': 1}
+566,Chennai,Lucknow,{'weight': 1}
+567,Chennai,Mohali district,{'weight': 2}
+568,Chennai,Trivandrum,{'weight': 1}
+569,Chennai,Indore,{'weight': 3}
+570,Chennai,Coimbatore,{'weight': 2}
+571,Chennai,Pune/Pimpri-Chinchwad Area,{'weight': 3}
+572,Chennai,Chandigarh,{'weight': 2}
+573,Chennai,Pimpri Chinchwad,{'weight': 1}
+574,Chennai,Gurgaon,{'weight': 3}
+575,Chennai,Bhopal,{'weight': 1}
+576,Chennai,Patna,{'weight': 1}
+577,Chennai,Greater Coimbatore Area,{'weight': 1}
+578,Chennai,Greater Hyderabad Area,{'weight': 2}
+579,Chennai,Sriperumbudur,{'weight': 1}
+580,Chennai,Srinagar,{'weight': 1}
+581,Chennai,Ahmedabad,{'weight': 4}
+582,Chennai,Vadodara,{'weight': 2}
+583,Chennai,Greater Delhi Area,{'weight': 3}
+584,Chennai,Dehradun,{'weight': 3}
+585,Chennai,Navi Mumbai,{'weight': 5}
+586,Chennai,Ghaziabad,{'weight': 1}
+587,Chennai,Silao,{'weight': 1}
+588,Chennai,Vishakhapatnam,{'weight': 3}
+589,Chennai,Mumbai Metropolitan Region,{'weight': 4}
+590,Chennai,Rajkot,{'weight': 2}
+591,Chennai,Ludhiana,{'weight': 1}
+592,Chennai,Amritsar,{'weight': 1}
+593,Chennai,Mangaluru,{'weight': 1}
+594,Chennai,Alipur,{'weight': 1}
+595,Chennai,Kanpur,{'weight': 1}
+596,Chennai,Surat,{'weight': 1}
+597,Chennai,Kochi,{'weight': 3}
+598,Chennai,Faridabad,{'weight': 1}
+599,Chennai,Jammu,{'weight': 1}
+600,Chennai,Greater Chennai Area,{'weight': 1}
+601,Chennai,Bengaluru East,{'weight': 1}
+602,Chennai,Delhi Cantonment,{'weight': 1}
+603,Chennai,Jalandhar,{'weight': 1}
+604,Chennai,Mumbai,{'weight': 14}
+605,Chennai,Sahibzada Ajit Singh Nagar,{'weight': 1}
+606,Chennai,Vijayawada,{'weight': 2}
+607,Chennai,Thane,{'weight': 2}
+608,Chennai,Bhubaneshwar,{'weight': 1}
+609,Chennai,Nagpur,{'weight': 2}
+610,Chennai,Visakhapatnam,{'weight': 1}
+611,Chennai,Thiruvananthapuram,{'weight': 1}
+612,Chennai,Agra,{'weight': 1}
+613,Chennai,Greater Kolkata Area,{'weight': 2}
+614,Chennai,Jaipur,{'weight': 3}
+615,Chennai,Kozhikode,{'weight': 1}
+616,Chennai,Bangalore Urban,{'weight': 11}
+617,Chennai,Greater Nagpur Area,{'weight': 1}
+618,Mumbai,Bhubaneswar,{'weight': 1}
+619,Mumbai,Gautam Buddha Nagar,{'weight': 1}
+620,Mumbai,Kalyan,{'weight': 1}
+621,Mumbai,Greater Ahmedabad Area,{'weight': 1}
+622,Mumbai,Jamshedpur,{'weight': 1}
+623,Mumbai,Bangalore Urban district,{'weight': 1}
+624,Mumbai,Lucknow,{'weight': 1}
+625,Mumbai,Mohali district,{'weight': 2}
+626,Mumbai,Trivandrum,{'weight': 1}
+627,Mumbai,Indore,{'weight': 2}
+628,Mumbai,Coimbatore,{'weight': 2}
+629,Mumbai,Pune/Pimpri-Chinchwad Area,{'weight': 3}
+630,Mumbai,Chandigarh,{'weight': 2}
+631,Mumbai,Pimpri Chinchwad,{'weight': 1}
+632,Mumbai,Gurgaon,{'weight': 4}
+633,Mumbai,Bhopal,{'weight': 1}
+634,Mumbai,Patna,{'weight': 1}
+635,Mumbai,Greater Coimbatore Area,{'weight': 1}
+636,Mumbai,Greater Hyderabad Area,{'weight': 3}
+637,Mumbai,Sriperumbudur,{'weight': 1}
+638,Mumbai,Srinagar,{'weight': 1}
+639,Mumbai,Ahmedabad,{'weight': 4}
+640,Mumbai,Vadodara,{'weight': 2}
+641,Mumbai,Greater Delhi Area,{'weight': 3}
+642,Mumbai,Dehradun,{'weight': 3}
+643,Mumbai,Navi Mumbai,{'weight': 6}
+644,Mumbai,Ghaziabad,{'weight': 2}
+645,Mumbai,Vishakhapatnam,{'weight': 3}
+646,Mumbai,Mumbai Metropolitan Region,{'weight': 5}
+647,Mumbai,Rajkot,{'weight': 2}
+648,Mumbai,Ludhiana,{'weight': 1}
+649,Mumbai,Amritsar,{'weight': 1}
+650,Mumbai,Mangaluru,{'weight': 1}
+651,Mumbai,Alipur,{'weight': 1}
+652,Mumbai,Kanpur,{'weight': 1}
+653,Mumbai,Surat,{'weight': 1}
+654,Mumbai,Kochi,{'weight': 3}
+655,Mumbai,Faridabad,{'weight': 1}
+656,Mumbai,Jammu,{'weight': 1}
+657,Mumbai,Greater Chennai Area,{'weight': 1}
+658,Mumbai,Bengaluru East,{'weight': 1}
+659,Mumbai,Delhi Cantonment,{'weight': 1}
+660,Mumbai,Jalandhar,{'weight': 1}
+661,Mumbai,Sahibzada Ajit Singh Nagar,{'weight': 1}
+662,Mumbai,Vijayawada,{'weight': 2}
+663,Mumbai,Thane,{'weight': 2}
+664,Mumbai,Bhubaneshwar,{'weight': 1}
+665,Mumbai,Ahmednagar,{'weight': 1}
+666,Mumbai,Nagpur,{'weight': 2}
+667,Mumbai,Visakhapatnam,{'weight': 1}
+668,Mumbai,Thiruvananthapuram,{'weight': 1}
+669,Mumbai,Agra,{'weight': 1}
+670,Mumbai,Greater Kolkata Area,{'weight': 2}
+671,Mumbai,Jaipur,{'weight': 3}
+672,Mumbai,Kozhikode,{'weight': 1}
+673,Mumbai,Bangalore Urban,{'weight': 9}
+674,Mumbai,Greater Nagpur Area,{'weight': 1}
+675,Mumbai Metropolitan Region,Bhubaneswar,{'weight': 1}
+676,Mumbai Metropolitan Region,Gautam Buddha Nagar,{'weight': 1}
+677,Mumbai Metropolitan Region,Rajkot,{'weight': 1}
+678,Mumbai Metropolitan Region,Ludhiana,{'weight': 1}
+679,Mumbai Metropolitan Region,Kalyan,{'weight': 1}
+680,Mumbai Metropolitan Region,Greater Ahmedabad Area,{'weight': 1}
+681,Mumbai Metropolitan Region,Amritsar,{'weight': 1}
+682,Mumbai Metropolitan Region,Mangaluru,{'weight': 1}
+683,Mumbai Metropolitan Region,Jamshedpur,{'weight': 1}
+684,Mumbai Metropolitan Region,Bangalore Urban district,{'weight': 1}
+685,Mumbai Metropolitan Region,Lucknow,{'weight': 1}
+686,Mumbai Metropolitan Region,Mohali district,{'weight': 1}
+687,Mumbai Metropolitan Region,Kanpur,{'weight': 1}
+688,Mumbai Metropolitan Region,Trivandrum,{'weight': 1}
+689,Mumbai Metropolitan Region,Indore,{'weight': 1}
+690,Mumbai Metropolitan Region,Surat,{'weight': 1}
+691,Mumbai Metropolitan Region,Coimbatore,{'weight': 1}
+692,Mumbai Metropolitan Region,Kochi,{'weight': 1}
+693,Mumbai Metropolitan Region,Faridabad,{'weight': 1}
+694,Mumbai Metropolitan Region,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+695,Mumbai Metropolitan Region,Chandigarh,{'weight': 1}
+696,Mumbai Metropolitan Region,Pimpri Chinchwad,{'weight': 1}
+697,Mumbai Metropolitan Region,Greater Chennai Area,{'weight': 1}
+698,Mumbai Metropolitan Region,Gurgaon,{'weight': 1}
+699,Mumbai Metropolitan Region,Bhopal,{'weight': 1}
+700,Mumbai Metropolitan Region,Patna,{'weight': 1}
+701,Mumbai Metropolitan Region,Sahibzada Ajit Singh Nagar,{'weight': 1}
+702,Mumbai Metropolitan Region,Greater Coimbatore Area,{'weight': 1}
+703,Mumbai Metropolitan Region,Greater Hyderabad Area,{'weight': 1}
+704,Mumbai Metropolitan Region,Sriperumbudur,{'weight': 1}
+705,Mumbai Metropolitan Region,Srinagar,{'weight': 1}
+706,Mumbai Metropolitan Region,Thane,{'weight': 1}
+707,Mumbai Metropolitan Region,Nagpur,{'weight': 1}
+708,Mumbai Metropolitan Region,Visakhapatnam,{'weight': 1}
+709,Mumbai Metropolitan Region,Ahmedabad,{'weight': 1}
+710,Mumbai Metropolitan Region,Thiruvananthapuram,{'weight': 1}
+711,Mumbai Metropolitan Region,Agra,{'weight': 1}
+712,Mumbai Metropolitan Region,Vadodara,{'weight': 1}
+713,Mumbai Metropolitan Region,Greater Delhi Area,{'weight': 1}
+714,Mumbai Metropolitan Region,Greater Kolkata Area,{'weight': 1}
+715,Mumbai Metropolitan Region,Jaipur,{'weight': 2}
+716,Mumbai Metropolitan Region,Dehradun,{'weight': 1}
+717,Mumbai Metropolitan Region,Navi Mumbai,{'weight': 1}
+718,Mumbai Metropolitan Region,Ghaziabad,{'weight': 1}
+719,Mumbai Metropolitan Region,Vishakhapatnam,{'weight': 2}
+720,Mumbai Metropolitan Region,Bangalore Urban,{'weight': 2}
+721,Mumbai Metropolitan Region,Greater Nagpur Area,{'weight': 1}
+722,Bhopal,Bhubaneswar,{'weight': 1}
+723,Bhopal,Gautam Buddha Nagar,{'weight': 1}
+724,Bhopal,Rajkot,{'weight': 1}
+725,Bhopal,Ludhiana,{'weight': 1}
+726,Bhopal,Kalyan,{'weight': 1}
+727,Bhopal,Greater Ahmedabad Area,{'weight': 1}
+728,Bhopal,Amritsar,{'weight': 1}
+729,Bhopal,Mangaluru,{'weight': 1}
+730,Bhopal,Jamshedpur,{'weight': 1}
+731,Bhopal,Bangalore Urban district,{'weight': 1}
+732,Bhopal,Lucknow,{'weight': 1}
+733,Bhopal,Mohali district,{'weight': 1}
+734,Bhopal,Kanpur,{'weight': 1}
+735,Bhopal,Trivandrum,{'weight': 1}
+736,Bhopal,Indore,{'weight': 1}
+737,Bhopal,Surat,{'weight': 1}
+738,Bhopal,Coimbatore,{'weight': 1}
+739,Bhopal,Kochi,{'weight': 1}
+740,Bhopal,Faridabad,{'weight': 1}
+741,Bhopal,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+742,Bhopal,Chandigarh,{'weight': 1}
+743,Bhopal,Pimpri Chinchwad,{'weight': 1}
+744,Bhopal,Greater Chennai Area,{'weight': 1}
+745,Bhopal,Gurgaon,{'weight': 1}
+746,Bhopal,Patna,{'weight': 1}
+747,Bhopal,Sahibzada Ajit Singh Nagar,{'weight': 1}
+748,Bhopal,Greater Coimbatore Area,{'weight': 1}
+749,Bhopal,Greater Hyderabad Area,{'weight': 1}
+750,Bhopal,Sriperumbudur,{'weight': 1}
+751,Bhopal,Srinagar,{'weight': 1}
+752,Bhopal,Thane,{'weight': 1}
+753,Bhopal,Nagpur,{'weight': 1}
+754,Bhopal,Visakhapatnam,{'weight': 1}
+755,Bhopal,Ahmedabad,{'weight': 1}
+756,Bhopal,Thiruvananthapuram,{'weight': 1}
+757,Bhopal,Agra,{'weight': 1}
+758,Bhopal,Vadodara,{'weight': 1}
+759,Bhopal,Greater Delhi Area,{'weight': 1}
+760,Bhopal,Greater Kolkata Area,{'weight': 1}
+761,Bhopal,Jaipur,{'weight': 1}
+762,Bhopal,Dehradun,{'weight': 1}
+763,Bhopal,Navi Mumbai,{'weight': 1}
+764,Bhopal,Ghaziabad,{'weight': 1}
+765,Bhopal,Vishakhapatnam,{'weight': 1}
+766,Bhopal,Bangalore Urban,{'weight': 1}
+767,Bhopal,Greater Nagpur Area,{'weight': 1}
+768,Surat,Bhubaneswar,{'weight': 1}
+769,Surat,Gautam Buddha Nagar,{'weight': 1}
+770,Surat,Rajkot,{'weight': 1}
+771,Surat,Ludhiana,{'weight': 1}
+772,Surat,Kalyan,{'weight': 1}
+773,Surat,Greater Ahmedabad Area,{'weight': 1}
+774,Surat,Amritsar,{'weight': 1}
+775,Surat,Mangaluru,{'weight': 1}
+776,Surat,Jamshedpur,{'weight': 1}
+777,Surat,Bangalore Urban district,{'weight': 1}
+778,Surat,Lucknow,{'weight': 1}
+779,Surat,Mohali district,{'weight': 1}
+780,Surat,Kanpur,{'weight': 1}
+781,Surat,Trivandrum,{'weight': 1}
+782,Surat,Indore,{'weight': 1}
+783,Surat,Coimbatore,{'weight': 1}
+784,Surat,Kochi,{'weight': 1}
+785,Surat,Faridabad,{'weight': 1}
+786,Surat,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+787,Surat,Chandigarh,{'weight': 1}
+788,Surat,Pimpri Chinchwad,{'weight': 1}
+789,Surat,Greater Chennai Area,{'weight': 1}
+790,Surat,Gurgaon,{'weight': 1}
+791,Surat,Patna,{'weight': 1}
+792,Surat,Sahibzada Ajit Singh Nagar,{'weight': 1}
+793,Surat,Greater Coimbatore Area,{'weight': 1}
+794,Surat,Greater Hyderabad Area,{'weight': 1}
+795,Surat,Sriperumbudur,{'weight': 1}
+796,Surat,Srinagar,{'weight': 1}
+797,Surat,Thane,{'weight': 1}
+798,Surat,Nagpur,{'weight': 1}
+799,Surat,Visakhapatnam,{'weight': 1}
+800,Surat,Ahmedabad,{'weight': 1}
+801,Surat,Thiruvananthapuram,{'weight': 1}
+802,Surat,Agra,{'weight': 1}
+803,Surat,Vadodara,{'weight': 1}
+804,Surat,Greater Delhi Area,{'weight': 1}
+805,Surat,Greater Kolkata Area,{'weight': 1}
+806,Surat,Jaipur,{'weight': 1}
+807,Surat,Dehradun,{'weight': 1}
+808,Surat,Navi Mumbai,{'weight': 1}
+809,Surat,Ghaziabad,{'weight': 1}
+810,Surat,Vishakhapatnam,{'weight': 1}
+811,Surat,Bangalore Urban,{'weight': 1}
+812,Surat,Greater Nagpur Area,{'weight': 1}
+813,Jaipur,Bhubaneswar,{'weight': 1}
+814,Jaipur,Gautam Buddha Nagar,{'weight': 1}
+815,Jaipur,Rajkot,{'weight': 1}
+816,Jaipur,Ludhiana,{'weight': 1}
+817,Jaipur,Kalyan,{'weight': 1}
+818,Jaipur,Greater Ahmedabad Area,{'weight': 1}
+819,Jaipur,Amritsar,{'weight': 1}
+820,Jaipur,Mangaluru,{'weight': 1}
+821,Jaipur,Jamshedpur,{'weight': 1}
+822,Jaipur,Bangalore Urban district,{'weight': 1}
+823,Jaipur,Lucknow,{'weight': 1}
+824,Jaipur,Mohali district,{'weight': 1}
+825,Jaipur,Kanpur,{'weight': 1}
+826,Jaipur,Trivandrum,{'weight': 1}
+827,Jaipur,Indore,{'weight': 1}
+828,Jaipur,Coimbatore,{'weight': 1}
+829,Jaipur,Kochi,{'weight': 1}
+830,Jaipur,Faridabad,{'weight': 1}
+831,Jaipur,Jammu,{'weight': 1}
+832,Jaipur,Pune/Pimpri-Chinchwad Area,{'weight': 2}
+833,Jaipur,Chandigarh,{'weight': 1}
+834,Jaipur,Pimpri Chinchwad,{'weight': 1}
+835,Jaipur,Greater Chennai Area,{'weight': 1}
+836,Jaipur,Gurgaon,{'weight': 1}
+837,Jaipur,Patna,{'weight': 1}
+838,Jaipur,Sahibzada Ajit Singh Nagar,{'weight': 1}
+839,Jaipur,Greater Coimbatore Area,{'weight': 1}
+840,Jaipur,Greater Hyderabad Area,{'weight': 1}
+841,Jaipur,Sriperumbudur,{'weight': 1}
+842,Jaipur,Srinagar,{'weight': 1}
+843,Jaipur,Bhubaneshwar,{'weight': 1}
+844,Jaipur,Thane,{'weight': 1}
+845,Jaipur,Nagpur,{'weight': 1}
+846,Jaipur,Visakhapatnam,{'weight': 1}
+847,Jaipur,Ahmedabad,{'weight': 1}
+848,Jaipur,Thiruvananthapuram,{'weight': 1}
+849,Jaipur,Agra,{'weight': 1}
+850,Jaipur,Vadodara,{'weight': 1}
+851,Jaipur,Greater Delhi Area,{'weight': 1}
+852,Jaipur,Greater Kolkata Area,{'weight': 1}
+853,Jaipur,Kozhikode,{'weight': 1}
+854,Jaipur,Dehradun,{'weight': 1}
+855,Jaipur,Navi Mumbai,{'weight': 1}
+856,Jaipur,Ghaziabad,{'weight': 1}
+857,Jaipur,Vishakhapatnam,{'weight': 3}
+858,Jaipur,Bangalore Urban,{'weight': 3}
+859,Jaipur,Greater Nagpur Area,{'weight': 1}
+860,Chandigarh,Bhubaneswar,{'weight': 1}
+861,Chandigarh,Gautam Buddha Nagar,{'weight': 1}
+862,Chandigarh,Rajkot,{'weight': 1}
+863,Chandigarh,Ludhiana,{'weight': 1}
+864,Chandigarh,Kalyan,{'weight': 1}
+865,Chandigarh,Greater Ahmedabad Area,{'weight': 1}
+866,Chandigarh,Amritsar,{'weight': 1}
+867,Chandigarh,Mangaluru,{'weight': 1}
+868,Chandigarh,Jamshedpur,{'weight': 1}
+869,Chandigarh,Bangalore Urban district,{'weight': 1}
+870,Chandigarh,Lucknow,{'weight': 1}
+871,Chandigarh,Mohali district,{'weight': 2}
+872,Chandigarh,Kanpur,{'weight': 1}
+873,Chandigarh,Trivandrum,{'weight': 1}
+874,Chandigarh,Indore,{'weight': 1}
+875,Chandigarh,Coimbatore,{'weight': 1}
+876,Chandigarh,Kochi,{'weight': 1}
+877,Chandigarh,Faridabad,{'weight': 1}
+878,Chandigarh,Pune/Pimpri-Chinchwad Area,{'weight': 2}
+879,Chandigarh,Pimpri Chinchwad,{'weight': 1}
+880,Chandigarh,Greater Chennai Area,{'weight': 1}
+881,Chandigarh,Gurgaon,{'weight': 1}
+882,Chandigarh,Patna,{'weight': 1}
+883,Chandigarh,Jalandhar,{'weight': 1}
+884,Chandigarh,Sahibzada Ajit Singh Nagar,{'weight': 1}
+885,Chandigarh,Vijayawada,{'weight': 1}
+886,Chandigarh,Greater Hyderabad Area,{'weight': 1}
+887,Chandigarh,Greater Coimbatore Area,{'weight': 1}
+888,Chandigarh,Sriperumbudur,{'weight': 1}
+889,Chandigarh,Srinagar,{'weight': 1}
+890,Chandigarh,Thane,{'weight': 1}
+891,Chandigarh,Nagpur,{'weight': 1}
+892,Chandigarh,Visakhapatnam,{'weight': 1}
+893,Chandigarh,Ahmedabad,{'weight': 2}
+894,Chandigarh,Thiruvananthapuram,{'weight': 1}
+895,Chandigarh,Agra,{'weight': 1}
+896,Chandigarh,Vadodara,{'weight': 1}
+897,Chandigarh,Greater Delhi Area,{'weight': 2}
+898,Chandigarh,Greater Kolkata Area,{'weight': 1}
+899,Chandigarh,Dehradun,{'weight': 2}
+900,Chandigarh,Navi Mumbai,{'weight': 2}
+901,Chandigarh,Ghaziabad,{'weight': 1}
+902,Chandigarh,Vishakhapatnam,{'weight': 1}
+903,Chandigarh,Bangalore Urban,{'weight': 1}
+904,Chandigarh,Greater Nagpur Area,{'weight': 1}
+905,Delhi Cantonment,Indore,{'weight': 1}
+906,Delhi Cantonment,Greater Hyderabad Area,{'weight': 1}
+907,Delhi Cantonment,Vadodara,{'weight': 1}
+908,Gurgaon,Bhubaneswar,{'weight': 1}
+909,Gurgaon,Gautam Buddha Nagar,{'weight': 1}
+910,Gurgaon,Rajkot,{'weight': 2}
+911,Gurgaon,Ludhiana,{'weight': 1}
+912,Gurgaon,Kalyan,{'weight': 1}
+913,Gurgaon,Greater Ahmedabad Area,{'weight': 1}
+914,Gurgaon,Amritsar,{'weight': 1}
+915,Gurgaon,Mangaluru,{'weight': 1}
+916,Gurgaon,Jamshedpur,{'weight': 1}
+917,Gurgaon,Bangalore Urban district,{'weight': 1}
+918,Gurgaon,Lucknow,{'weight': 1}
+919,Gurgaon,Mohali district,{'weight': 1}
+920,Gurgaon,Kanpur,{'weight': 1}
+921,Gurgaon,Trivandrum,{'weight': 1}
+922,Gurgaon,Indore,{'weight': 1}
+923,Gurgaon,Coimbatore,{'weight': 1}
+924,Gurgaon,Kochi,{'weight': 1}
+925,Gurgaon,Faridabad,{'weight': 1}
+926,Gurgaon,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+927,Gurgaon,Pimpri Chinchwad,{'weight': 1}
+928,Gurgaon,Greater Chennai Area,{'weight': 1}
+929,Gurgaon,Patna,{'weight': 1}
+930,Gurgaon,Sahibzada Ajit Singh Nagar,{'weight': 1}
+931,Gurgaon,Greater Coimbatore Area,{'weight': 1}
+932,Gurgaon,Greater Hyderabad Area,{'weight': 1}
+933,Gurgaon,Sriperumbudur,{'weight': 1}
+934,Gurgaon,Srinagar,{'weight': 1}
+935,Gurgaon,Thane,{'weight': 1}
+936,Gurgaon,Nagpur,{'weight': 1}
+937,Gurgaon,Visakhapatnam,{'weight': 1}
+938,Gurgaon,Ahmedabad,{'weight': 2}
+939,Gurgaon,Thiruvananthapuram,{'weight': 1}
+940,Gurgaon,Agra,{'weight': 1}
+941,Gurgaon,Vadodara,{'weight': 1}
+942,Gurgaon,Greater Delhi Area,{'weight': 1}
+943,Gurgaon,Greater Kolkata Area,{'weight': 1}
+944,Gurgaon,Dehradun,{'weight': 1}
+945,Gurgaon,Navi Mumbai,{'weight': 2}
+946,Gurgaon,Ghaziabad,{'weight': 1}
+947,Gurgaon,Vishakhapatnam,{'weight': 1}
+948,Gurgaon,Bangalore Urban,{'weight': 4}
+949,Gurgaon,Greater Nagpur Area,{'weight': 1}
+950,Nagpur,Bhubaneswar,{'weight': 1}
+951,Nagpur,Gautam Buddha Nagar,{'weight': 1}
+952,Nagpur,Rajkot,{'weight': 1}
+953,Nagpur,Ludhiana,{'weight': 1}
+954,Nagpur,Kalyan,{'weight': 1}
+955,Nagpur,Greater Ahmedabad Area,{'weight': 1}
+956,Nagpur,Amritsar,{'weight': 1}
+957,Nagpur,Mangaluru,{'weight': 1}
+958,Nagpur,Jamshedpur,{'weight': 1}
+959,Nagpur,Bangalore Urban district,{'weight': 1}
+960,Nagpur,Lucknow,{'weight': 1}
+961,Nagpur,Mohali district,{'weight': 1}
+962,Nagpur,Kanpur,{'weight': 1}
+963,Nagpur,Trivandrum,{'weight': 1}
+964,Nagpur,Indore,{'weight': 1}
+965,Nagpur,Coimbatore,{'weight': 2}
+966,Nagpur,Kochi,{'weight': 2}
+967,Nagpur,Faridabad,{'weight': 1}
+968,Nagpur,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+969,Nagpur,Pimpri Chinchwad,{'weight': 1}
+970,Nagpur,Greater Chennai Area,{'weight': 1}
+971,Nagpur,Midnapore,{'weight': 1}
+972,Nagpur,Bengaluru East,{'weight': 1}
+973,Nagpur,Patna,{'weight': 1}
+974,Nagpur,Sahibzada Ajit Singh Nagar,{'weight': 1}
+975,Nagpur,Greater Coimbatore Area,{'weight': 1}
+976,Nagpur,Greater Hyderabad Area,{'weight': 1}
+977,Nagpur,Vijayawada,{'weight': 1}
+978,Nagpur,Sriperumbudur,{'weight': 1}
+979,Nagpur,Srinagar,{'weight': 1}
+980,Nagpur,Thane,{'weight': 2}
+981,Nagpur,Visakhapatnam,{'weight': 1}
+982,Nagpur,Ahmedabad,{'weight': 1}
+983,Nagpur,Thiruvananthapuram,{'weight': 1}
+984,Nagpur,Agra,{'weight': 1}
+985,Nagpur,Vadodara,{'weight': 1}
+986,Nagpur,Greater Delhi Area,{'weight': 1}
+987,Nagpur,Greater Kolkata Area,{'weight': 1}
+988,Nagpur,Dehradun,{'weight': 1}
+989,Nagpur,Navi Mumbai,{'weight': 1}
+990,Nagpur,Ghaziabad,{'weight': 1}
+991,Nagpur,Vishakhapatnam,{'weight': 1}
+992,Nagpur,Bangalore Urban,{'weight': 2}
+993,Nagpur,Greater Nagpur Area,{'weight': 1}
+994,Bangalore Urban,Bhubaneswar,{'weight': 1}
+995,Bangalore Urban,Gautam Buddha Nagar,{'weight': 1}
+996,Bangalore Urban,Kalyan,{'weight': 1}
+997,Bangalore Urban,Greater Ahmedabad Area,{'weight': 1}
+998,Bangalore Urban,Jamshedpur,{'weight': 1}
+999,Bangalore Urban,Bangalore Urban district,{'weight': 1}
+1000,Bangalore Urban,Lucknow,{'weight': 1}
+1001,Bangalore Urban,Mohali district,{'weight': 1}
+1002,Bangalore Urban,Trivandrum,{'weight': 1}
+1003,Bangalore Urban,Indore,{'weight': 1}
+1004,Bangalore Urban,Coimbatore,{'weight': 3}
+1005,Bangalore Urban,Pune/Pimpri-Chinchwad Area,{'weight': 2}
+1006,Bangalore Urban,Pimpri Chinchwad,{'weight': 1}
+1007,Bangalore Urban,Patna,{'weight': 1}
+1008,Bangalore Urban,Greater Coimbatore Area,{'weight': 1}
+1009,Bangalore Urban,Greater Hyderabad Area,{'weight': 1}
+1010,Bangalore Urban,Sriperumbudur,{'weight': 1}
+1011,Bangalore Urban,Srinagar,{'weight': 1}
+1012,Bangalore Urban,Raipur,{'weight': 1}
+1013,Bangalore Urban,Ahmedabad,{'weight': 5}
+1014,Bangalore Urban,Vadodara,{'weight': 1}
+1015,Bangalore Urban,Greater Delhi Area,{'weight': 1}
+1016,Bangalore Urban,Dehradun,{'weight': 2}
+1017,Bangalore Urban,Navi Mumbai,{'weight': 4}
+1018,Bangalore Urban,Ghaziabad,{'weight': 1}
+1019,Bangalore Urban,Silao,{'weight': 1}
+1020,Bangalore Urban,Vishakhapatnam,{'weight': 3}
+1021,Bangalore Urban,Rajkot,{'weight': 2}
+1022,Bangalore Urban,Ludhiana,{'weight': 1}
+1023,Bangalore Urban,Amritsar,{'weight': 1}
+1024,Bangalore Urban,Mangaluru,{'weight': 1}
+1025,Bangalore Urban,Alipur,{'weight': 1}
+1026,Bangalore Urban,Kanpur,{'weight': 1}
+1027,Bangalore Urban,Kochi,{'weight': 3}
+1028,Bangalore Urban,Faridabad,{'weight': 1}
+1029,Bangalore Urban,Jammu,{'weight': 1}
+1030,Bangalore Urban,Greater Chennai Area,{'weight': 1}
+1031,Bangalore Urban,Bengaluru East,{'weight': 1}
+1032,Bangalore Urban,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1033,Bangalore Urban,Vijayawada,{'weight': 1}
+1034,Bangalore Urban,Bhubaneshwar,{'weight': 1}
+1035,Bangalore Urban,Thane,{'weight': 2}
+1036,Bangalore Urban,Visakhapatnam,{'weight': 1}
+1037,Bangalore Urban,Thiruvananthapuram,{'weight': 1}
+1038,Bangalore Urban,Agra,{'weight': 1}
+1039,Bangalore Urban,Greater Kolkata Area,{'weight': 2}
+1040,Bangalore Urban,Kozhikode,{'weight': 1}
+1041,Bangalore Urban,Greater Nagpur Area,{'weight': 1}
+1042,Ahmedabad,Bhubaneswar,{'weight': 1}
+1043,Ahmedabad,Gautam Buddha Nagar,{'weight': 1}
+1044,Ahmedabad,Rajkot,{'weight': 2}
+1045,Ahmedabad,Ludhiana,{'weight': 1}
+1046,Ahmedabad,Kalyan,{'weight': 1}
+1047,Ahmedabad,Greater Ahmedabad Area,{'weight': 1}
+1048,Ahmedabad,Amritsar,{'weight': 1}
+1049,Ahmedabad,Mangaluru,{'weight': 1}
+1050,Ahmedabad,Jamshedpur,{'weight': 1}
+1051,Ahmedabad,Bangalore Urban district,{'weight': 1}
+1052,Ahmedabad,Lucknow,{'weight': 1}
+1053,Ahmedabad,Mohali district,{'weight': 2}
+1054,Ahmedabad,Kanpur,{'weight': 1}
+1055,Ahmedabad,Trivandrum,{'weight': 1}
+1056,Ahmedabad,Indore,{'weight': 1}
+1057,Ahmedabad,Coimbatore,{'weight': 1}
+1058,Ahmedabad,Kochi,{'weight': 1}
+1059,Ahmedabad,Faridabad,{'weight': 1}
+1060,Ahmedabad,Pune/Pimpri-Chinchwad Area,{'weight': 2}
+1061,Ahmedabad,Pimpri Chinchwad,{'weight': 1}
+1062,Ahmedabad,Greater Chennai Area,{'weight': 1}
+1063,Ahmedabad,Patna,{'weight': 1}
+1064,Ahmedabad,Jalandhar,{'weight': 1}
+1065,Ahmedabad,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1066,Ahmedabad,Greater Coimbatore Area,{'weight': 1}
+1067,Ahmedabad,Greater Hyderabad Area,{'weight': 1}
+1068,Ahmedabad,Vijayawada,{'weight': 1}
+1069,Ahmedabad,Sriperumbudur,{'weight': 1}
+1070,Ahmedabad,Srinagar,{'weight': 1}
+1071,Ahmedabad,Thane,{'weight': 1}
+1072,Ahmedabad,Visakhapatnam,{'weight': 1}
+1073,Ahmedabad,Thiruvananthapuram,{'weight': 1}
+1074,Ahmedabad,Agra,{'weight': 1}
+1075,Ahmedabad,Vadodara,{'weight': 1}
+1076,Ahmedabad,Greater Delhi Area,{'weight': 2}
+1077,Ahmedabad,Greater Kolkata Area,{'weight': 1}
+1078,Ahmedabad,Dehradun,{'weight': 2}
+1079,Ahmedabad,Navi Mumbai,{'weight': 2}
+1080,Ahmedabad,Ghaziabad,{'weight': 1}
+1081,Ahmedabad,Silao,{'weight': 1}
+1082,Ahmedabad,Vishakhapatnam,{'weight': 1}
+1083,Ahmedabad,Greater Nagpur Area,{'weight': 1}
+1084,Kalyan,Bhubaneswar,{'weight': 1}
+1085,Kalyan,Gautam Buddha Nagar,{'weight': 1}
+1086,Kalyan,Rajkot,{'weight': 1}
+1087,Kalyan,Ludhiana,{'weight': 1}
+1088,Kalyan,Greater Ahmedabad Area,{'weight': 1}
+1089,Kalyan,Amritsar,{'weight': 1}
+1090,Kalyan,Mangaluru,{'weight': 1}
+1091,Kalyan,Jamshedpur,{'weight': 1}
+1092,Kalyan,Bangalore Urban district,{'weight': 1}
+1093,Kalyan,Lucknow,{'weight': 1}
+1094,Kalyan,Mohali district,{'weight': 1}
+1095,Kalyan,Kanpur,{'weight': 1}
+1096,Kalyan,Trivandrum,{'weight': 1}
+1097,Kalyan,Indore,{'weight': 1}
+1098,Kalyan,Coimbatore,{'weight': 1}
+1099,Kalyan,Kochi,{'weight': 1}
+1100,Kalyan,Faridabad,{'weight': 1}
+1101,Kalyan,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+1102,Kalyan,Pimpri Chinchwad,{'weight': 1}
+1103,Kalyan,Greater Chennai Area,{'weight': 1}
+1104,Kalyan,Patna,{'weight': 1}
+1105,Kalyan,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1106,Kalyan,Greater Coimbatore Area,{'weight': 1}
+1107,Kalyan,Greater Hyderabad Area,{'weight': 1}
+1108,Kalyan,Sriperumbudur,{'weight': 1}
+1109,Kalyan,Srinagar,{'weight': 1}
+1110,Kalyan,Thane,{'weight': 1}
+1111,Kalyan,Visakhapatnam,{'weight': 1}
+1112,Kalyan,Thiruvananthapuram,{'weight': 1}
+1113,Kalyan,Agra,{'weight': 1}
+1114,Kalyan,Vadodara,{'weight': 1}
+1115,Kalyan,Greater Delhi Area,{'weight': 1}
+1116,Kalyan,Greater Kolkata Area,{'weight': 1}
+1117,Kalyan,Dehradun,{'weight': 1}
+1118,Kalyan,Navi Mumbai,{'weight': 1}
+1119,Kalyan,Ghaziabad,{'weight': 1}
+1120,Kalyan,Vishakhapatnam,{'weight': 1}
+1121,Kalyan,Greater Nagpur Area,{'weight': 1}
+1122,Ludhiana,Bhubaneswar,{'weight': 1}
+1123,Ludhiana,Gautam Buddha Nagar,{'weight': 1}
+1124,Ludhiana,Rajkot,{'weight': 1}
+1125,Ludhiana,Greater Ahmedabad Area,{'weight': 1}
+1126,Ludhiana,Amritsar,{'weight': 1}
+1127,Ludhiana,Mangaluru,{'weight': 1}
+1128,Ludhiana,Jamshedpur,{'weight': 1}
+1129,Ludhiana,Bangalore Urban district,{'weight': 1}
+1130,Ludhiana,Lucknow,{'weight': 1}
+1131,Ludhiana,Mohali district,{'weight': 1}
+1132,Ludhiana,Kanpur,{'weight': 1}
+1133,Ludhiana,Trivandrum,{'weight': 1}
+1134,Ludhiana,Indore,{'weight': 1}
+1135,Ludhiana,Coimbatore,{'weight': 1}
+1136,Ludhiana,Kochi,{'weight': 1}
+1137,Ludhiana,Faridabad,{'weight': 1}
+1138,Ludhiana,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+1139,Ludhiana,Pimpri Chinchwad,{'weight': 1}
+1140,Ludhiana,Greater Chennai Area,{'weight': 1}
+1141,Ludhiana,Patna,{'weight': 1}
+1142,Ludhiana,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1143,Ludhiana,Greater Coimbatore Area,{'weight': 1}
+1144,Ludhiana,Greater Hyderabad Area,{'weight': 1}
+1145,Ludhiana,Sriperumbudur,{'weight': 1}
+1146,Ludhiana,Srinagar,{'weight': 1}
+1147,Ludhiana,Thane,{'weight': 1}
+1148,Ludhiana,Visakhapatnam,{'weight': 1}
+1149,Ludhiana,Thiruvananthapuram,{'weight': 1}
+1150,Ludhiana,Agra,{'weight': 1}
+1151,Ludhiana,Vadodara,{'weight': 1}
+1152,Ludhiana,Greater Delhi Area,{'weight': 1}
+1153,Ludhiana,Greater Kolkata Area,{'weight': 1}
+1154,Ludhiana,Dehradun,{'weight': 1}
+1155,Ludhiana,Navi Mumbai,{'weight': 1}
+1156,Ludhiana,Ghaziabad,{'weight': 1}
+1157,Ludhiana,Vishakhapatnam,{'weight': 1}
+1158,Ludhiana,Greater Nagpur Area,{'weight': 1}
+1159,Amritsar,Bhubaneswar,{'weight': 1}
+1160,Amritsar,Gautam Buddha Nagar,{'weight': 1}
+1161,Amritsar,Rajkot,{'weight': 1}
+1162,Amritsar,Greater Ahmedabad Area,{'weight': 1}
+1163,Amritsar,Mangaluru,{'weight': 1}
+1164,Amritsar,Jamshedpur,{'weight': 1}
+1165,Amritsar,Bangalore Urban district,{'weight': 1}
+1166,Amritsar,Lucknow,{'weight': 1}
+1167,Amritsar,Mohali district,{'weight': 1}
+1168,Amritsar,Kanpur,{'weight': 1}
+1169,Amritsar,Trivandrum,{'weight': 1}
+1170,Amritsar,Indore,{'weight': 1}
+1171,Amritsar,Coimbatore,{'weight': 1}
+1172,Amritsar,Kochi,{'weight': 1}
+1173,Amritsar,Faridabad,{'weight': 1}
+1174,Amritsar,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+1175,Amritsar,Pimpri Chinchwad,{'weight': 1}
+1176,Amritsar,Greater Chennai Area,{'weight': 1}
+1177,Amritsar,Patna,{'weight': 1}
+1178,Amritsar,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1179,Amritsar,Greater Coimbatore Area,{'weight': 1}
+1180,Amritsar,Greater Hyderabad Area,{'weight': 1}
+1181,Amritsar,Sriperumbudur,{'weight': 1}
+1182,Amritsar,Srinagar,{'weight': 1}
+1183,Amritsar,Thane,{'weight': 1}
+1184,Amritsar,Visakhapatnam,{'weight': 1}
+1185,Amritsar,Thiruvananthapuram,{'weight': 1}
+1186,Amritsar,Agra,{'weight': 1}
+1187,Amritsar,Vadodara,{'weight': 1}
+1188,Amritsar,Greater Delhi Area,{'weight': 1}
+1189,Amritsar,Greater Kolkata Area,{'weight': 1}
+1190,Amritsar,Dehradun,{'weight': 1}
+1191,Amritsar,Navi Mumbai,{'weight': 1}
+1192,Amritsar,Ghaziabad,{'weight': 1}
+1193,Amritsar,Vishakhapatnam,{'weight': 1}
+1194,Amritsar,Greater Nagpur Area,{'weight': 1}
+1195,Patna,Bhubaneswar,{'weight': 1}
+1196,Patna,Gautam Buddha Nagar,{'weight': 1}
+1197,Patna,Rajkot,{'weight': 1}
+1198,Patna,Greater Ahmedabad Area,{'weight': 1}
+1199,Patna,Mangaluru,{'weight': 1}
+1200,Patna,Jamshedpur,{'weight': 1}
+1201,Patna,Bangalore Urban district,{'weight': 1}
+1202,Patna,Lucknow,{'weight': 1}
+1203,Patna,Mohali district,{'weight': 1}
+1204,Patna,Kanpur,{'weight': 1}
+1205,Patna,Trivandrum,{'weight': 1}
+1206,Patna,Indore,{'weight': 1}
+1207,Patna,Coimbatore,{'weight': 1}
+1208,Patna,Kochi,{'weight': 1}
+1209,Patna,Faridabad,{'weight': 1}
+1210,Patna,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+1211,Patna,Pimpri Chinchwad,{'weight': 1}
+1212,Patna,Greater Chennai Area,{'weight': 1}
+1213,Patna,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1214,Patna,Greater Coimbatore Area,{'weight': 1}
+1215,Patna,Greater Hyderabad Area,{'weight': 1}
+1216,Patna,Sriperumbudur,{'weight': 1}
+1217,Patna,Srinagar,{'weight': 1}
+1218,Patna,Thane,{'weight': 1}
+1219,Patna,Visakhapatnam,{'weight': 1}
+1220,Patna,Thiruvananthapuram,{'weight': 1}
+1221,Patna,Agra,{'weight': 1}
+1222,Patna,Vadodara,{'weight': 1}
+1223,Patna,Greater Delhi Area,{'weight': 1}
+1224,Patna,Greater Kolkata Area,{'weight': 1}
+1225,Patna,Dehradun,{'weight': 1}
+1226,Patna,Navi Mumbai,{'weight': 1}
+1227,Patna,Ghaziabad,{'weight': 1}
+1228,Patna,Vishakhapatnam,{'weight': 1}
+1229,Patna,Greater Nagpur Area,{'weight': 1}
+1230,Thiruvananthapuram,Bhubaneswar,{'weight': 1}
+1231,Thiruvananthapuram,Gautam Buddha Nagar,{'weight': 1}
+1232,Thiruvananthapuram,Rajkot,{'weight': 1}
+1233,Thiruvananthapuram,Greater Ahmedabad Area,{'weight': 1}
+1234,Thiruvananthapuram,Mangaluru,{'weight': 1}
+1235,Thiruvananthapuram,Jamshedpur,{'weight': 1}
+1236,Thiruvananthapuram,Bangalore Urban district,{'weight': 1}
+1237,Thiruvananthapuram,Lucknow,{'weight': 1}
+1238,Thiruvananthapuram,Mohali district,{'weight': 1}
+1239,Thiruvananthapuram,Kanpur,{'weight': 1}
+1240,Thiruvananthapuram,Trivandrum,{'weight': 1}
+1241,Thiruvananthapuram,Indore,{'weight': 1}
+1242,Thiruvananthapuram,Coimbatore,{'weight': 1}
+1243,Thiruvananthapuram,Kochi,{'weight': 1}
+1244,Thiruvananthapuram,Faridabad,{'weight': 1}
+1245,Thiruvananthapuram,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+1246,Thiruvananthapuram,Pimpri Chinchwad,{'weight': 1}
+1247,Thiruvananthapuram,Greater Chennai Area,{'weight': 1}
+1248,Thiruvananthapuram,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1249,Thiruvananthapuram,Greater Coimbatore Area,{'weight': 1}
+1250,Thiruvananthapuram,Greater Hyderabad Area,{'weight': 1}
+1251,Thiruvananthapuram,Sriperumbudur,{'weight': 1}
+1252,Thiruvananthapuram,Srinagar,{'weight': 1}
+1253,Thiruvananthapuram,Thane,{'weight': 1}
+1254,Thiruvananthapuram,Visakhapatnam,{'weight': 1}
+1255,Thiruvananthapuram,Agra,{'weight': 1}
+1256,Thiruvananthapuram,Vadodara,{'weight': 1}
+1257,Thiruvananthapuram,Greater Delhi Area,{'weight': 1}
+1258,Thiruvananthapuram,Greater Kolkata Area,{'weight': 1}
+1259,Thiruvananthapuram,Dehradun,{'weight': 1}
+1260,Thiruvananthapuram,Navi Mumbai,{'weight': 1}
+1261,Thiruvananthapuram,Ghaziabad,{'weight': 1}
+1262,Thiruvananthapuram,Vishakhapatnam,{'weight': 1}
+1263,Thiruvananthapuram,Greater Nagpur Area,{'weight': 1}
+1264,Kochi,Bhubaneswar,{'weight': 1}
+1265,Kochi,Gautam Buddha Nagar,{'weight': 1}
+1266,Kochi,Rajkot,{'weight': 1}
+1267,Kochi,Greater Ahmedabad Area,{'weight': 1}
+1268,Kochi,Mangaluru,{'weight': 1}
+1269,Kochi,Jamshedpur,{'weight': 1}
+1270,Kochi,Bangalore Urban district,{'weight': 1}
+1271,Kochi,Lucknow,{'weight': 1}
+1272,Kochi,Mohali district,{'weight': 1}
+1273,Kochi,Kanpur,{'weight': 1}
+1274,Kochi,Trivandrum,{'weight': 1}
+1275,Kochi,Indore,{'weight': 1}
+1276,Kochi,Coimbatore,{'weight': 2}
+1277,Kochi,Faridabad,{'weight': 1}
+1278,Kochi,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+1279,Kochi,Pimpri Chinchwad,{'weight': 1}
+1280,Kochi,Greater Chennai Area,{'weight': 1}
+1281,Kochi,Bengaluru East,{'weight': 1}
+1282,Kochi,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1283,Kochi,Greater Coimbatore Area,{'weight': 1}
+1284,Kochi,Greater Hyderabad Area,{'weight': 1}
+1285,Kochi,Vijayawada,{'weight': 1}
+1286,Kochi,Sriperumbudur,{'weight': 1}
+1287,Kochi,Srinagar,{'weight': 1}
+1288,Kochi,Thane,{'weight': 2}
+1289,Kochi,Visakhapatnam,{'weight': 1}
+1290,Kochi,Agra,{'weight': 1}
+1291,Kochi,Vadodara,{'weight': 1}
+1292,Kochi,Greater Delhi Area,{'weight': 1}
+1293,Kochi,Greater Kolkata Area,{'weight': 1}
+1294,Kochi,Dehradun,{'weight': 1}
+1295,Kochi,Navi Mumbai,{'weight': 2}
+1296,Kochi,Ghaziabad,{'weight': 1}
+1297,Kochi,Vishakhapatnam,{'weight': 1}
+1298,Kochi,Greater Nagpur Area,{'weight': 1}
+1299,Indore,Bhubaneswar,{'weight': 1}
+1300,Indore,Gautam Buddha Nagar,{'weight': 1}
+1301,Indore,Rajkot,{'weight': 1}
+1302,Indore,Greater Ahmedabad Area,{'weight': 1}
+1303,Indore,Mangaluru,{'weight': 1}
+1304,Indore,Jamshedpur,{'weight': 1}
+1305,Indore,Bangalore Urban district,{'weight': 1}
+1306,Indore,Lucknow,{'weight': 1}
+1307,Indore,Mohali district,{'weight': 1}
+1308,Indore,Kanpur,{'weight': 1}
+1309,Indore,Trivandrum,{'weight': 1}
+1310,Indore,Coimbatore,{'weight': 1}
+1311,Indore,Faridabad,{'weight': 1}
+1312,Indore,Pune/Pimpri-Chinchwad Area,{'weight': 1}
+1313,Indore,Pimpri Chinchwad,{'weight': 1}
+1314,Indore,Greater Chennai Area,{'weight': 1}
+1315,Indore,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1316,Indore,Greater Coimbatore Area,{'weight': 1}
+1317,Indore,Greater Hyderabad Area,{'weight': 2}
+1318,Indore,Sriperumbudur,{'weight': 1}
+1319,Indore,Srinagar,{'weight': 1}
+1320,Indore,Thane,{'weight': 1}
+1321,Indore,Visakhapatnam,{'weight': 1}
+1322,Indore,Agra,{'weight': 1}
+1323,Indore,Vadodara,{'weight': 2}
+1324,Indore,Greater Delhi Area,{'weight': 1}
+1325,Indore,Greater Kolkata Area,{'weight': 1}
+1326,Indore,Dehradun,{'weight': 1}
+1327,Indore,Navi Mumbai,{'weight': 1}
+1328,Indore,Ghaziabad,{'weight': 1}
+1329,Indore,Vishakhapatnam,{'weight': 1}
+1330,Indore,Greater Nagpur Area,{'weight': 1}
+1331,Pune/Pimpri-Chinchwad Area,Bhubaneswar,{'weight': 1}
+1332,Pune/Pimpri-Chinchwad Area,Gautam Buddha Nagar,{'weight': 1}
+1333,Pune/Pimpri-Chinchwad Area,Greater Ahmedabad Area,{'weight': 1}
+1334,Pune/Pimpri-Chinchwad Area,Jamshedpur,{'weight': 1}
+1335,Pune/Pimpri-Chinchwad Area,Bangalore Urban district,{'weight': 1}
+1336,Pune/Pimpri-Chinchwad Area,Lucknow,{'weight': 1}
+1337,Pune/Pimpri-Chinchwad Area,Mohali district,{'weight': 2}
+1338,Pune/Pimpri-Chinchwad Area,Trivandrum,{'weight': 1}
+1339,Pune/Pimpri-Chinchwad Area,Coimbatore,{'weight': 1}
+1340,Pune/Pimpri-Chinchwad Area,Pimpri Chinchwad,{'weight': 1}
+1341,Pune/Pimpri-Chinchwad Area,Greater Coimbatore Area,{'weight': 1}
+1342,Pune/Pimpri-Chinchwad Area,Greater Hyderabad Area,{'weight': 1}
+1343,Pune/Pimpri-Chinchwad Area,Sriperumbudur,{'weight': 1}
+1344,Pune/Pimpri-Chinchwad Area,Srinagar,{'weight': 1}
+1345,Pune/Pimpri-Chinchwad Area,Vadodara,{'weight': 1}
+1346,Pune/Pimpri-Chinchwad Area,Greater Delhi Area,{'weight': 2}
+1347,Pune/Pimpri-Chinchwad Area,Dehradun,{'weight': 2}
+1348,Pune/Pimpri-Chinchwad Area,Navi Mumbai,{'weight': 2}
+1349,Pune/Pimpri-Chinchwad Area,Ghaziabad,{'weight': 1}
+1350,Pune/Pimpri-Chinchwad Area,Vishakhapatnam,{'weight': 2}
+1351,Pune/Pimpri-Chinchwad Area,Rajkot,{'weight': 1}
+1352,Pune/Pimpri-Chinchwad Area,Mangaluru,{'weight': 1}
+1353,Pune/Pimpri-Chinchwad Area,Kanpur,{'weight': 1}
+1354,Pune/Pimpri-Chinchwad Area,Faridabad,{'weight': 1}
+1355,Pune/Pimpri-Chinchwad Area,Jammu,{'weight': 1}
+1356,Pune/Pimpri-Chinchwad Area,Greater Chennai Area,{'weight': 1}
+1357,Pune/Pimpri-Chinchwad Area,Jalandhar,{'weight': 1}
+1358,Pune/Pimpri-Chinchwad Area,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1359,Pune/Pimpri-Chinchwad Area,Vijayawada,{'weight': 1}
+1360,Pune/Pimpri-Chinchwad Area,Bhubaneshwar,{'weight': 1}
+1361,Pune/Pimpri-Chinchwad Area,Thane,{'weight': 1}
+1362,Pune/Pimpri-Chinchwad Area,Visakhapatnam,{'weight': 1}
+1363,Pune/Pimpri-Chinchwad Area,Agra,{'weight': 1}
+1364,Pune/Pimpri-Chinchwad Area,Greater Kolkata Area,{'weight': 1}
+1365,Pune/Pimpri-Chinchwad Area,Kozhikode,{'weight': 1}
+1366,Pune/Pimpri-Chinchwad Area,Greater Nagpur Area,{'weight': 1}
+1367,Dehradun,Bhubaneswar,{'weight': 1}
+1368,Dehradun,Gautam Buddha Nagar,{'weight': 1}
+1369,Dehradun,Rajkot,{'weight': 1}
+1370,Dehradun,Greater Ahmedabad Area,{'weight': 1}
+1371,Dehradun,Mangaluru,{'weight': 1}
+1372,Dehradun,Jamshedpur,{'weight': 1}
+1373,Dehradun,Bangalore Urban district,{'weight': 1}
+1374,Dehradun,Lucknow,{'weight': 1}
+1375,Dehradun,Mohali district,{'weight': 2}
+1376,Dehradun,Kanpur,{'weight': 1}
+1377,Dehradun,Trivandrum,{'weight': 1}
+1378,Dehradun,Coimbatore,{'weight': 1}
+1379,Dehradun,Faridabad,{'weight': 1}
+1380,Dehradun,Pimpri Chinchwad,{'weight': 1}
+1381,Dehradun,Greater Chennai Area,{'weight': 1}
+1382,Dehradun,Jalandhar,{'weight': 1}
+1383,Dehradun,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1384,Dehradun,Greater Coimbatore Area,{'weight': 1}
+1385,Dehradun,Greater Hyderabad Area,{'weight': 1}
+1386,Dehradun,Vijayawada,{'weight': 1}
+1387,Dehradun,Sriperumbudur,{'weight': 1}
+1388,Dehradun,Srinagar,{'weight': 1}
+1389,Dehradun,Thane,{'weight': 1}
+1390,Dehradun,Visakhapatnam,{'weight': 1}
+1391,Dehradun,Agra,{'weight': 1}
+1392,Dehradun,Vadodara,{'weight': 1}
+1393,Dehradun,Greater Delhi Area,{'weight': 2}
+1394,Dehradun,Greater Kolkata Area,{'weight': 2}
+1395,Dehradun,Navi Mumbai,{'weight': 3}
+1396,Dehradun,Ghaziabad,{'weight': 1}
+1397,Dehradun,Vishakhapatnam,{'weight': 1}
+1398,Dehradun,Greater Nagpur Area,{'weight': 1}
+1399,Greater Hyderabad Area,Bhubaneswar,{'weight': 1}
+1400,Greater Hyderabad Area,Gautam Buddha Nagar,{'weight': 1}
+1401,Greater Hyderabad Area,Rajkot,{'weight': 1}
+1402,Greater Hyderabad Area,Greater Ahmedabad Area,{'weight': 1}
+1403,Greater Hyderabad Area,Mangaluru,{'weight': 1}
+1404,Greater Hyderabad Area,Jamshedpur,{'weight': 1}
+1405,Greater Hyderabad Area,Bangalore Urban district,{'weight': 1}
+1406,Greater Hyderabad Area,Lucknow,{'weight': 1}
+1407,Greater Hyderabad Area,Mohali district,{'weight': 1}
+1408,Greater Hyderabad Area,Kanpur,{'weight': 1}
+1409,Greater Hyderabad Area,Trivandrum,{'weight': 1}
+1410,Greater Hyderabad Area,Coimbatore,{'weight': 1}
+1411,Greater Hyderabad Area,Faridabad,{'weight': 1}
+1412,Greater Hyderabad Area,Pimpri Chinchwad,{'weight': 1}
+1413,Greater Hyderabad Area,Greater Chennai Area,{'weight': 1}
+1414,Greater Hyderabad Area,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1415,Greater Hyderabad Area,Greater Coimbatore Area,{'weight': 1}
+1416,Greater Hyderabad Area,Sriperumbudur,{'weight': 1}
+1417,Greater Hyderabad Area,Srinagar,{'weight': 1}
+1418,Greater Hyderabad Area,Thane,{'weight': 1}
+1419,Greater Hyderabad Area,Visakhapatnam,{'weight': 1}
+1420,Greater Hyderabad Area,Agra,{'weight': 1}
+1421,Greater Hyderabad Area,Vadodara,{'weight': 2}
+1422,Greater Hyderabad Area,Greater Delhi Area,{'weight': 1}
+1423,Greater Hyderabad Area,Greater Kolkata Area,{'weight': 1}
+1424,Greater Hyderabad Area,Navi Mumbai,{'weight': 1}
+1425,Greater Hyderabad Area,Ghaziabad,{'weight': 1}
+1426,Greater Hyderabad Area,Vishakhapatnam,{'weight': 1}
+1427,Greater Hyderabad Area,Greater Nagpur Area,{'weight': 1}
+1428,Lucknow,Bhubaneswar,{'weight': 1}
+1429,Lucknow,Gautam Buddha Nagar,{'weight': 1}
+1430,Lucknow,Rajkot,{'weight': 1}
+1431,Lucknow,Greater Ahmedabad Area,{'weight': 1}
+1432,Lucknow,Mangaluru,{'weight': 1}
+1433,Lucknow,Jamshedpur,{'weight': 1}
+1434,Lucknow,Bangalore Urban district,{'weight': 1}
+1435,Lucknow,Mohali district,{'weight': 1}
+1436,Lucknow,Kanpur,{'weight': 1}
+1437,Lucknow,Trivandrum,{'weight': 1}
+1438,Lucknow,Coimbatore,{'weight': 1}
+1439,Lucknow,Faridabad,{'weight': 1}
+1440,Lucknow,Pimpri Chinchwad,{'weight': 1}
+1441,Lucknow,Greater Chennai Area,{'weight': 1}
+1442,Lucknow,Sahibzada Ajit Singh Nagar,{'weight': 1}
+1443,Lucknow,Greater Coimbatore Area,{'weight': 1}
+1444,Lucknow,Sriperumbudur,{'weight': 1}
+1445,Lucknow,Srinagar,{'weight': 1}
+1446,Lucknow,Thane,{'weight': 1}
+1447,Lucknow,Visakhapatnam,{'weight': 1}
+1448,Lucknow,Agra,{'weight': 1}
+1449,Lucknow,Vadodara,{'weight': 1}
+1450,Lucknow,Greater Delhi Area,{'weight': 1}
+1451,Lucknow,Greater Kolkata Area,{'weight': 1}
+1452,Lucknow,Navi Mumbai,{'weight': 1}
+1453,Lucknow,Ghaziabad,{'weight': 1}
+1454,Lucknow,Vishakhapatnam,{'weight': 1}
+1455,Lucknow,Greater Nagpur Area,{'weight': 1}
+1456,Sahibzada Ajit Singh Nagar,Bhubaneswar,{'weight': 1}
+1457,Sahibzada Ajit Singh Nagar,Gautam Buddha Nagar,{'weight': 1}
+1458,Sahibzada Ajit Singh Nagar,Rajkot,{'weight': 1}
+1459,Sahibzada Ajit Singh Nagar,Greater Ahmedabad Area,{'weight': 1}
+1460,Sahibzada Ajit Singh Nagar,Mangaluru,{'weight': 1}
+1461,Sahibzada Ajit Singh Nagar,Jamshedpur,{'weight': 1}
+1462,Sahibzada Ajit Singh Nagar,Bangalore Urban district,{'weight': 1}
+1463,Sahibzada Ajit Singh Nagar,Mohali district,{'weight': 1}
+1464,Sahibzada Ajit Singh Nagar,Kanpur,{'weight': 1}
+1465,Sahibzada Ajit Singh Nagar,Trivandrum,{'weight': 1}
+1466,Sahibzada Ajit Singh Nagar,Coimbatore,{'weight': 1}
+1467,Sahibzada Ajit Singh Nagar,Faridabad,{'weight': 1}
+1468,Sahibzada Ajit Singh Nagar,Pimpri Chinchwad,{'weight': 1}
+1469,Sahibzada Ajit Singh Nagar,Greater Chennai Area,{'weight': 1}
+1470,Sahibzada Ajit Singh Nagar,Greater Coimbatore Area,{'weight': 1}
+1471,Sahibzada Ajit Singh Nagar,Sriperumbudur,{'weight': 1}
+1472,Sahibzada Ajit Singh Nagar,Srinagar,{'weight': 1}
+1473,Sahibzada Ajit Singh Nagar,Thane,{'weight': 1}
+1474,Sahibzada Ajit Singh Nagar,Visakhapatnam,{'weight': 1}
+1475,Sahibzada Ajit Singh Nagar,Agra,{'weight': 1}
+1476,Sahibzada Ajit Singh Nagar,Vadodara,{'weight': 1}
+1477,Sahibzada Ajit Singh Nagar,Greater Delhi Area,{'weight': 1}
+1478,Sahibzada Ajit Singh Nagar,Greater Kolkata Area,{'weight': 1}
+1479,Sahibzada Ajit Singh Nagar,Navi Mumbai,{'weight': 1}
+1480,Sahibzada Ajit Singh Nagar,Ghaziabad,{'weight': 1}
+1481,Sahibzada Ajit Singh Nagar,Vishakhapatnam,{'weight': 1}
+1482,Sahibzada Ajit Singh Nagar,Greater Nagpur Area,{'weight': 1}
+1483,Coimbatore,Bhubaneswar,{'weight': 1}
+1484,Coimbatore,Gautam Buddha Nagar,{'weight': 1}
+1485,Coimbatore,Rajkot,{'weight': 1}
+1486,Coimbatore,Greater Ahmedabad Area,{'weight': 1}
+1487,Coimbatore,Mangaluru,{'weight': 1}
+1488,Coimbatore,Jamshedpur,{'weight': 1}
+1489,Coimbatore,Bangalore Urban district,{'weight': 1}
+1490,Coimbatore,Mohali district,{'weight': 1}
+1491,Coimbatore,Kanpur,{'weight': 1}
+1492,Coimbatore,Trivandrum,{'weight': 1}
+1493,Coimbatore,Faridabad,{'weight': 1}
+1494,Coimbatore,Pimpri Chinchwad,{'weight': 1}
+1495,Coimbatore,Greater Chennai Area,{'weight': 1}
+1496,Coimbatore,Bengaluru East,{'weight': 1}
+1497,Coimbatore,Greater Coimbatore Area,{'weight': 1}
+1498,Coimbatore,Vijayawada,{'weight': 1}
+1499,Coimbatore,Sriperumbudur,{'weight': 1}
+1500,Coimbatore,Srinagar,{'weight': 1}
+1501,Coimbatore,Thane,{'weight': 2}
+1502,Coimbatore,Visakhapatnam,{'weight': 1}
+1503,Coimbatore,Agra,{'weight': 1}
+1504,Coimbatore,Vadodara,{'weight': 1}
+1505,Coimbatore,Greater Delhi Area,{'weight': 1}
+1506,Coimbatore,Greater Kolkata Area,{'weight': 1}
+1507,Coimbatore,Navi Mumbai,{'weight': 1}
+1508,Coimbatore,Ghaziabad,{'weight': 1}
+1509,Coimbatore,Vishakhapatnam,{'weight': 1}
+1510,Coimbatore,Greater Nagpur Area,{'weight': 1}
+1511,Kozhikode,Bhubaneshwar,{'weight': 1}
+1512,Kozhikode,Jammu,{'weight': 1}
+1513,Kozhikode,Vishakhapatnam,{'weight': 1}
+1514,Rajkot,Bhubaneswar,{'weight': 1}
+1515,Rajkot,Gautam Buddha Nagar,{'weight': 1}
+1516,Rajkot,Greater Ahmedabad Area,{'weight': 1}
+1517,Rajkot,Mangaluru,{'weight': 1}
+1518,Rajkot,Jamshedpur,{'weight': 1}
+1519,Rajkot,Bangalore Urban district,{'weight': 1}
+1520,Rajkot,Mohali district,{'weight': 1}
+1521,Rajkot,Kanpur,{'weight': 1}
+1522,Rajkot,Trivandrum,{'weight': 1}
+1523,Rajkot,Faridabad,{'weight': 1}
+1524,Rajkot,Pimpri Chinchwad,{'weight': 1}
+1525,Rajkot,Greater Chennai Area,{'weight': 1}
+1526,Rajkot,Greater Coimbatore Area,{'weight': 1}
+1527,Rajkot,Sriperumbudur,{'weight': 1}
+1528,Rajkot,Srinagar,{'weight': 1}
+1529,Rajkot,Thane,{'weight': 1}
+1530,Rajkot,Visakhapatnam,{'weight': 1}
+1531,Rajkot,Agra,{'weight': 1}
+1532,Rajkot,Vadodara,{'weight': 1}
+1533,Rajkot,Greater Delhi Area,{'weight': 1}
+1534,Rajkot,Greater Kolkata Area,{'weight': 1}
+1535,Rajkot,Navi Mumbai,{'weight': 1}
+1536,Rajkot,Ghaziabad,{'weight': 1}
+1537,Rajkot,Vishakhapatnam,{'weight': 1}
+1538,Rajkot,Greater Nagpur Area,{'weight': 1}
+1539,Kanpur,Bhubaneswar,{'weight': 1}
+1540,Kanpur,Gautam Buddha Nagar,{'weight': 1}
+1541,Kanpur,Greater Ahmedabad Area,{'weight': 1}
+1542,Kanpur,Mangaluru,{'weight': 1}
+1543,Kanpur,Jamshedpur,{'weight': 1}
+1544,Kanpur,Bangalore Urban district,{'weight': 1}
+1545,Kanpur,Mohali district,{'weight': 1}
+1546,Kanpur,Trivandrum,{'weight': 1}
+1547,Kanpur,Faridabad,{'weight': 1}
+1548,Kanpur,Pimpri Chinchwad,{'weight': 1}
+1549,Kanpur,Greater Chennai Area,{'weight': 1}
+1550,Kanpur,Greater Coimbatore Area,{'weight': 1}
+1551,Kanpur,Sriperumbudur,{'weight': 1}
+1552,Kanpur,Srinagar,{'weight': 1}
+1553,Kanpur,Thane,{'weight': 1}
+1554,Kanpur,Visakhapatnam,{'weight': 1}
+1555,Kanpur,Agra,{'weight': 1}
+1556,Kanpur,Vadodara,{'weight': 1}
+1557,Kanpur,Greater Delhi Area,{'weight': 1}
+1558,Kanpur,Greater Kolkata Area,{'weight': 1}
+1559,Kanpur,Navi Mumbai,{'weight': 1}
+1560,Kanpur,Ghaziabad,{'weight': 1}
+1561,Kanpur,Vishakhapatnam,{'weight': 1}
+1562,Kanpur,Greater Nagpur Area,{'weight': 1}
+1563,Navi Mumbai,Bhubaneswar,{'weight': 1}
+1564,Navi Mumbai,Gautam Buddha Nagar,{'weight': 1}
+1565,Navi Mumbai,Greater Ahmedabad Area,{'weight': 1}
+1566,Navi Mumbai,Mangaluru,{'weight': 1}
+1567,Navi Mumbai,Alipur,{'weight': 1}
+1568,Navi Mumbai,Jamshedpur,{'weight': 1}
+1569,Navi Mumbai,Bangalore Urban district,{'weight': 1}
+1570,Navi Mumbai,Mohali district,{'weight': 2}
+1571,Navi Mumbai,Trivandrum,{'weight': 1}
+1572,Navi Mumbai,Faridabad,{'weight': 1}
+1573,Navi Mumbai,Pimpri Chinchwad,{'weight': 1}
+1574,Navi Mumbai,Greater Chennai Area,{'weight': 1}
+1575,Navi Mumbai,Jalandhar,{'weight': 1}
+1576,Navi Mumbai,Greater Coimbatore Area,{'weight': 1}
+1577,Navi Mumbai,Vijayawada,{'weight': 1}
+1578,Navi Mumbai,Sriperumbudur,{'weight': 1}
+1579,Navi Mumbai,Srinagar,{'weight': 1}
+1580,Navi Mumbai,Thane,{'weight': 1}
+1581,Navi Mumbai,Visakhapatnam,{'weight': 1}
+1582,Navi Mumbai,Agra,{'weight': 1}
+1583,Navi Mumbai,Vadodara,{'weight': 1}
+1584,Navi Mumbai,Greater Delhi Area,{'weight': 2}
+1585,Navi Mumbai,Greater Kolkata Area,{'weight': 2}
+1586,Navi Mumbai,Ghaziabad,{'weight': 1}
+1587,Navi Mumbai,Vishakhapatnam,{'weight': 1}
+1588,Navi Mumbai,Greater Nagpur Area,{'weight': 1}
+1589,Pimpri Chinchwad,Bhubaneswar,{'weight': 1}
+1590,Pimpri Chinchwad,Gautam Buddha Nagar,{'weight': 1}
+1591,Pimpri Chinchwad,Greater Ahmedabad Area,{'weight': 1}
+1592,Pimpri Chinchwad,Mangaluru,{'weight': 1}
+1593,Pimpri Chinchwad,Jamshedpur,{'weight': 1}
+1594,Pimpri Chinchwad,Bangalore Urban district,{'weight': 1}
+1595,Pimpri Chinchwad,Mohali district,{'weight': 1}
+1596,Pimpri Chinchwad,Trivandrum,{'weight': 1}
+1597,Pimpri Chinchwad,Faridabad,{'weight': 1}
+1598,Pimpri Chinchwad,Greater Chennai Area,{'weight': 1}
+1599,Pimpri Chinchwad,Greater Coimbatore Area,{'weight': 1}
+1600,Pimpri Chinchwad,Sriperumbudur,{'weight': 1}
+1601,Pimpri Chinchwad,Srinagar,{'weight': 1}
+1602,Pimpri Chinchwad,Thane,{'weight': 1}
+1603,Pimpri Chinchwad,Visakhapatnam,{'weight': 1}
+1604,Pimpri Chinchwad,Agra,{'weight': 1}
+1605,Pimpri Chinchwad,Vadodara,{'weight': 1}
+1606,Pimpri Chinchwad,Greater Delhi Area,{'weight': 1}
+1607,Pimpri Chinchwad,Greater Kolkata Area,{'weight': 1}
+1608,Pimpri Chinchwad,Ghaziabad,{'weight': 1}
+1609,Pimpri Chinchwad,Vishakhapatnam,{'weight': 1}
+1610,Pimpri Chinchwad,Greater Nagpur Area,{'weight': 1}
+1611,Greater Delhi Area,Bhubaneswar,{'weight': 1}
+1612,Greater Delhi Area,Gautam Buddha Nagar,{'weight': 1}
+1613,Greater Delhi Area,Greater Ahmedabad Area,{'weight': 1}
+1614,Greater Delhi Area,Mangaluru,{'weight': 1}
+1615,Greater Delhi Area,Jamshedpur,{'weight': 1}
+1616,Greater Delhi Area,Bangalore Urban district,{'weight': 1}
+1617,Greater Delhi Area,Mohali district,{'weight': 2}
+1618,Greater Delhi Area,Trivandrum,{'weight': 1}
+1619,Greater Delhi Area,Faridabad,{'weight': 1}
+1620,Greater Delhi Area,Greater Chennai Area,{'weight': 1}
+1621,Greater Delhi Area,Jalandhar,{'weight': 1}
+1622,Greater Delhi Area,Greater Coimbatore Area,{'weight': 1}
+1623,Greater Delhi Area,Vijayawada,{'weight': 1}
+1624,Greater Delhi Area,Sriperumbudur,{'weight': 1}
+1625,Greater Delhi Area,Srinagar,{'weight': 1}
+1626,Greater Delhi Area,Thane,{'weight': 1}
+1627,Greater Delhi Area,Visakhapatnam,{'weight': 1}
+1628,Greater Delhi Area,Agra,{'weight': 1}
+1629,Greater Delhi Area,Ernakulam,{'weight': 1}
+1630,Greater Delhi Area,Vadodara,{'weight': 1}
+1631,Greater Delhi Area,Greater Kolkata Area,{'weight': 1}
+1632,Greater Delhi Area,Ghaziabad,{'weight': 1}
+1633,Greater Delhi Area,Vishakhapatnam,{'weight': 1}
+1634,Greater Delhi Area,Greater Nagpur Area,{'weight': 1}
+1635,Greater Coimbatore Area,Bhubaneswar,{'weight': 1}
+1636,Greater Coimbatore Area,Gautam Buddha Nagar,{'weight': 1}
+1637,Greater Coimbatore Area,Greater Ahmedabad Area,{'weight': 1}
+1638,Greater Coimbatore Area,Mangaluru,{'weight': 1}
+1639,Greater Coimbatore Area,Jamshedpur,{'weight': 1}
+1640,Greater Coimbatore Area,Bangalore Urban district,{'weight': 1}
+1641,Greater Coimbatore Area,Mohali district,{'weight': 1}
+1642,Greater Coimbatore Area,Trivandrum,{'weight': 1}
+1643,Greater Coimbatore Area,Faridabad,{'weight': 1}
+1644,Greater Coimbatore Area,Greater Chennai Area,{'weight': 1}
+1645,Greater Coimbatore Area,Sriperumbudur,{'weight': 1}
+1646,Greater Coimbatore Area,Srinagar,{'weight': 1}
+1647,Greater Coimbatore Area,Thane,{'weight': 1}
+1648,Greater Coimbatore Area,Visakhapatnam,{'weight': 1}
+1649,Greater Coimbatore Area,Agra,{'weight': 1}
+1650,Greater Coimbatore Area,Vadodara,{'weight': 1}
+1651,Greater Coimbatore Area,Greater Kolkata Area,{'weight': 1}
+1652,Greater Coimbatore Area,Ghaziabad,{'weight': 1}
+1653,Greater Coimbatore Area,Vishakhapatnam,{'weight': 1}
+1654,Greater Coimbatore Area,Greater Nagpur Area,{'weight': 1}
+1655,Ghaziabad,Bhubaneswar,{'weight': 1}
+1656,Ghaziabad,Gautam Buddha Nagar,{'weight': 1}
+1657,Ghaziabad,Greater Ahmedabad Area,{'weight': 1}
+1658,Ghaziabad,Mangaluru,{'weight': 1}
+1659,Ghaziabad,Jamshedpur,{'weight': 1}
+1660,Ghaziabad,Bangalore Urban district,{'weight': 1}
+1661,Ghaziabad,Mohali district,{'weight': 1}
+1662,Ghaziabad,Trivandrum,{'weight': 1}
+1663,Ghaziabad,Faridabad,{'weight': 1}
+1664,Ghaziabad,Greater Chennai Area,{'weight': 1}
+1665,Ghaziabad,Sriperumbudur,{'weight': 1}
+1666,Ghaziabad,Srinagar,{'weight': 1}
+1667,Ghaziabad,Thane,{'weight': 1}
+1668,Ghaziabad,Visakhapatnam,{'weight': 1}
+1669,Ghaziabad,Agra,{'weight': 1}
+1670,Ghaziabad,Vadodara,{'weight': 1}
+1671,Ghaziabad,Greater Kolkata Area,{'weight': 1}
+1672,Ghaziabad,Vishakhapatnam,{'weight': 1}
+1673,Ghaziabad,Greater Nagpur Area,{'weight': 1}
+1674,Bhubaneshwar,Jammu,{'weight': 1}
+1675,Bhubaneshwar,Vishakhapatnam,{'weight': 1}
+1676,Bangalore Urban district,Bhubaneswar,{'weight': 1}
+1677,Bangalore Urban district,Gautam Buddha Nagar,{'weight': 1}
+1678,Bangalore Urban district,Greater Ahmedabad Area,{'weight': 1}
+1679,Bangalore Urban district,Mangaluru,{'weight': 1}
+1680,Bangalore Urban district,Jamshedpur,{'weight': 1}
+1681,Bangalore Urban district,Mohali district,{'weight': 1}
+1682,Bangalore Urban district,Trivandrum,{'weight': 1}
+1683,Bangalore Urban district,Faridabad,{'weight': 1}
+1684,Bangalore Urban district,Greater Chennai Area,{'weight': 1}
+1685,Bangalore Urban district,Sriperumbudur,{'weight': 1}
+1686,Bangalore Urban district,Srinagar,{'weight': 1}
+1687,Bangalore Urban district,Thane,{'weight': 1}
+1688,Bangalore Urban district,Visakhapatnam,{'weight': 1}
+1689,Bangalore Urban district,Agra,{'weight': 1}
+1690,Bangalore Urban district,Vadodara,{'weight': 1}
+1691,Bangalore Urban district,Greater Kolkata Area,{'weight': 1}
+1692,Bangalore Urban district,Vishakhapatnam,{'weight': 1}
+1693,Bangalore Urban district,Greater Nagpur Area,{'weight': 1}
+1694,Srinagar,Bhubaneswar,{'weight': 1}
+1695,Srinagar,Gautam Buddha Nagar,{'weight': 1}
+1696,Srinagar,Greater Ahmedabad Area,{'weight': 1}
+1697,Srinagar,Mangaluru,{'weight': 1}
+1698,Srinagar,Jamshedpur,{'weight': 1}
+1699,Srinagar,Mohali district,{'weight': 1}
+1700,Srinagar,Trivandrum,{'weight': 1}
+1701,Srinagar,Faridabad,{'weight': 1}
+1702,Srinagar,Greater Chennai Area,{'weight': 1}
+1703,Srinagar,Sriperumbudur,{'weight': 1}
+1704,Srinagar,Thane,{'weight': 1}
+1705,Srinagar,Visakhapatnam,{'weight': 1}
+1706,Srinagar,Agra,{'weight': 1}
+1707,Srinagar,Vadodara,{'weight': 1}
+1708,Srinagar,Greater Kolkata Area,{'weight': 1}
+1709,Srinagar,Vishakhapatnam,{'weight': 1}
+1710,Srinagar,Greater Nagpur Area,{'weight': 1}
+1711,Vishakhapatnam,Bhubaneswar,{'weight': 1}
+1712,Vishakhapatnam,Gautam Buddha Nagar,{'weight': 1}
+1713,Vishakhapatnam,Greater Ahmedabad Area,{'weight': 1}
+1714,Vishakhapatnam,Mangaluru,{'weight': 1}
+1715,Vishakhapatnam,Jamshedpur,{'weight': 1}
+1716,Vishakhapatnam,Mohali district,{'weight': 1}
+1717,Vishakhapatnam,Trivandrum,{'weight': 1}
+1718,Vishakhapatnam,Faridabad,{'weight': 1}
+1719,Vishakhapatnam,Jammu,{'weight': 1}
+1720,Vishakhapatnam,Greater Chennai Area,{'weight': 1}
+1721,Vishakhapatnam,Sriperumbudur,{'weight': 1}
+1722,Vishakhapatnam,Thane,{'weight': 1}
+1723,Vishakhapatnam,Visakhapatnam,{'weight': 1}
+1724,Vishakhapatnam,Agra,{'weight': 1}
+1725,Vishakhapatnam,Vadodara,{'weight': 1}
+1726,Vishakhapatnam,Greater Kolkata Area,{'weight': 1}
+1727,Vishakhapatnam,Greater Nagpur Area,{'weight': 1}
+1728,Bengaluru East,Vijayawada,{'weight': 1}
+1729,Bengaluru East,Thane,{'weight': 1}
+1730,Visakhapatnam,Bhubaneswar,{'weight': 1}
+1731,Visakhapatnam,Gautam Buddha Nagar,{'weight': 1}
+1732,Visakhapatnam,Greater Ahmedabad Area,{'weight': 1}
+1733,Visakhapatnam,Mangaluru,{'weight': 1}
+1734,Visakhapatnam,Jamshedpur,{'weight': 1}
+1735,Visakhapatnam,Mohali district,{'weight': 1}
+1736,Visakhapatnam,Trivandrum,{'weight': 1}
+1737,Visakhapatnam,Faridabad,{'weight': 1}
+1738,Visakhapatnam,Greater Chennai Area,{'weight': 1}
+1739,Visakhapatnam,Sriperumbudur,{'weight': 1}
+1740,Visakhapatnam,Thane,{'weight': 1}
+1741,Visakhapatnam,Agra,{'weight': 1}
+1742,Visakhapatnam,Vadodara,{'weight': 1}
+1743,Visakhapatnam,Greater Kolkata Area,{'weight': 1}
+1744,Visakhapatnam,Greater Nagpur Area,{'weight': 1}
+1745,Thane,Bhubaneswar,{'weight': 1}
+1746,Thane,Gautam Buddha Nagar,{'weight': 1}
+1747,Thane,Greater Ahmedabad Area,{'weight': 1}
+1748,Thane,Mangaluru,{'weight': 1}
+1749,Thane,Jamshedpur,{'weight': 1}
+1750,Thane,Mohali district,{'weight': 1}
+1751,Thane,Trivandrum,{'weight': 1}
+1752,Thane,Faridabad,{'weight': 1}
+1753,Thane,Greater Chennai Area,{'weight': 1}
+1754,Thane,Vijayawada,{'weight': 1}
+1755,Thane,Sriperumbudur,{'weight': 1}
+1756,Thane,Agra,{'weight': 1}
+1757,Thane,Vadodara,{'weight': 1}
+1758,Thane,Greater Kolkata Area,{'weight': 1}
+1759,Thane,Greater Nagpur Area,{'weight': 1}
+1760,Vadodara,Bhubaneswar,{'weight': 1}
+1761,Vadodara,Gautam Buddha Nagar,{'weight': 1}
+1762,Vadodara,Greater Ahmedabad Area,{'weight': 1}
+1763,Vadodara,Mangaluru,{'weight': 1}
+1764,Vadodara,Jamshedpur,{'weight': 1}
+1765,Vadodara,Mohali district,{'weight': 1}
+1766,Vadodara,Trivandrum,{'weight': 1}
+1767,Vadodara,Faridabad,{'weight': 1}
+1768,Vadodara,Greater Chennai Area,{'weight': 1}
+1769,Vadodara,Sriperumbudur,{'weight': 1}
+1770,Vadodara,Agra,{'weight': 1}
+1771,Vadodara,Greater Kolkata Area,{'weight': 1}
+1772,Vadodara,Greater Nagpur Area,{'weight': 1}
+1773,Mohali district,Bhubaneswar,{'weight': 1}
+1774,Mohali district,Gautam Buddha Nagar,{'weight': 1}
+1775,Mohali district,Greater Ahmedabad Area,{'weight': 1}
+1776,Mohali district,Mangaluru,{'weight': 1}
+1777,Mohali district,Jamshedpur,{'weight': 1}
+1778,Mohali district,Trivandrum,{'weight': 1}
+1779,Mohali district,Faridabad,{'weight': 1}
+1780,Mohali district,Greater Chennai Area,{'weight': 1}
+1781,Mohali district,Jalandhar,{'weight': 1}
+1782,Mohali district,Vijayawada,{'weight': 1}
+1783,Mohali district,Sriperumbudur,{'weight': 1}
+1784,Mohali district,Agra,{'weight': 1}
+1785,Mohali district,Greater Kolkata Area,{'weight': 1}
+1786,Mohali district,Greater Nagpur Area,{'weight': 1}
+1787,Greater Ahmedabad Area,Bhubaneswar,{'weight': 1}
+1788,Greater Ahmedabad Area,Gautam Buddha Nagar,{'weight': 1}
+1789,Greater Ahmedabad Area,Mangaluru,{'weight': 1}
+1790,Greater Ahmedabad Area,Jamshedpur,{'weight': 1}
+1791,Greater Ahmedabad Area,Trivandrum,{'weight': 1}
+1792,Greater Ahmedabad Area,Faridabad,{'weight': 1}
+1793,Greater Ahmedabad Area,Greater Chennai Area,{'weight': 1}
+1794,Greater Ahmedabad Area,Sriperumbudur,{'weight': 1}
+1795,Greater Ahmedabad Area,Agra,{'weight': 1}
+1796,Greater Ahmedabad Area,Greater Kolkata Area,{'weight': 1}
+1797,Greater Ahmedabad Area,Greater Nagpur Area,{'weight': 1}
+1798,Greater Chennai Area,Bhubaneswar,{'weight': 1}
+1799,Greater Chennai Area,Gautam Buddha Nagar,{'weight': 1}
+1800,Greater Chennai Area,Mangaluru,{'weight': 1}
+1801,Greater Chennai Area,Jamshedpur,{'weight': 1}
+1802,Greater Chennai Area,Trivandrum,{'weight': 1}
+1803,Greater Chennai Area,Faridabad,{'weight': 1}
+1804,Greater Chennai Area,Sriperumbudur,{'weight': 1}
+1805,Greater Chennai Area,Agra,{'weight': 1}
+1806,Greater Chennai Area,Greater Kolkata Area,{'weight': 1}
+1807,Greater Chennai Area,Greater Nagpur Area,{'weight': 1}
+1808,Faridabad,Bhubaneswar,{'weight': 1}
+1809,Faridabad,Gautam Buddha Nagar,{'weight': 1}
+1810,Faridabad,Mangaluru,{'weight': 1}
+1811,Faridabad,Jamshedpur,{'weight': 1}
+1812,Faridabad,Trivandrum,{'weight': 1}
+1813,Faridabad,Sriperumbudur,{'weight': 1}
+1814,Faridabad,Agra,{'weight': 1}
+1815,Faridabad,Greater Kolkata Area,{'weight': 1}
+1816,Faridabad,Greater Nagpur Area,{'weight': 1}
+1817,Jamshedpur,Bhubaneswar,{'weight': 1}
+1818,Jamshedpur,Gautam Buddha Nagar,{'weight': 1}
+1819,Jamshedpur,Mangaluru,{'weight': 1}
+1820,Jamshedpur,Trivandrum,{'weight': 1}
+1821,Jamshedpur,Sriperumbudur,{'weight': 1}
+1822,Jamshedpur,Agra,{'weight': 1}
+1823,Jamshedpur,Greater Kolkata Area,{'weight': 1}
+1824,Jamshedpur,Greater Nagpur Area,{'weight': 1}
+1825,Bhubaneswar,Gautam Buddha Nagar,{'weight': 1}
+1826,Bhubaneswar,Mangaluru,{'weight': 1}
+1827,Bhubaneswar,Trivandrum,{'weight': 1}
+1828,Bhubaneswar,Sriperumbudur,{'weight': 1}
+1829,Bhubaneswar,Agra,{'weight': 1}
+1830,Bhubaneswar,Greater Kolkata Area,{'weight': 1}
+1831,Bhubaneswar,Greater Nagpur Area,{'weight': 1}
+1832,Trivandrum,Gautam Buddha Nagar,{'weight': 1}
+1833,Trivandrum,Mangaluru,{'weight': 1}
+1834,Trivandrum,Sriperumbudur,{'weight': 1}
+1835,Trivandrum,Agra,{'weight': 1}
+1836,Trivandrum,Greater Kolkata Area,{'weight': 1}
+1837,Trivandrum,Greater Nagpur Area,{'weight': 1}
+1838,Agra,Gautam Buddha Nagar,{'weight': 1}
+1839,Agra,Mangaluru,{'weight': 1}
+1840,Agra,Sriperumbudur,{'weight': 1}
+1841,Agra,Greater Kolkata Area,{'weight': 1}
+1842,Agra,Greater Nagpur Area,{'weight': 1}
+1843,Vijayawada,Jalandhar,{'weight': 1}
+1844,Greater Nagpur Area,Gautam Buddha Nagar,{'weight': 1}
+1845,Greater Nagpur Area,Mangaluru,{'weight': 1}
+1846,Greater Nagpur Area,Sriperumbudur,{'weight': 1}
+1847,Greater Nagpur Area,Greater Kolkata Area,{'weight': 1}
+1848,Mangaluru,Gautam Buddha Nagar,{'weight': 1}
+1849,Mangaluru,Sriperumbudur,{'weight': 1}
+1850,Mangaluru,Greater Kolkata Area,{'weight': 1}
+1851,Greater Kolkata Area,Gautam Buddha Nagar,{'weight': 1}
+1852,Greater Kolkata Area,Sriperumbudur,{'weight': 1}
+1853,Gautam Buddha Nagar,Sriperumbudur,{'weight': 1}

@@ -1,0 +1,133 @@
+industry,City,cluster,,Row Labels,Count of industry,,,,,,,,,,,,Row Labels,Count of industry
+ IT Services and IT Consulting,New Delhi,2,,Gurgaon,1,,,,,,,,,,,, Accounting,2
+ Market Research,Noida,2,,Gurugram,9,,,,,,,,,,,, Advertising Services,3
+ IT Services and IT Consulting,Hyderabad,2,,Hyderabad,8,,,,,,,,,,,, Apparel & Fashion,1
+ IT Services and IT Consulting,Kolkata,2,,Indore,2,,,,,,,,,,,, Automation Machinery Manufacturing,1
+ IT Services and IT Consulting,Gurugram,2,,Jaipur,3,,,,,,,,,,,, Banking,2
+ Human Resources Services,Pune,2,,Jammu,1,,,,,,,,,,,, Broadcast Media Production and Distribution,1
+ IT Services and IT Consulting,Pune,2,,Jamshedpur,1,,,,,,,,,,,, Business Consulting and Services,5
+ Business Consulting and Services,Mumbai,2,,Kalyan,1,,,,,,,,,,,, Civil Engineering,1
+ Information Technology & Services,Hyderabad,2,,Kanpur,1,,,,,,,,,,,, Computer and Network Security,1
+ IT Services and IT Consulting,Noida,2,,Kochi,2,,,,,,,,,,,, Computer Games,1
+ Information Technology & Services,Pune,2,,Kolkata,3,,,,,,,,,,,, Computer Networking Products,1
+ IT Services and IT Consulting,Mumbai,2,,Kozhikode,1,,,,,,,,,,,, Computers and Electronics Manufacturing,1
+ Financial Services,Pune,2,,Lucknow,1,,,,,,,,,,,, Construction,1
+ IT Services and IT Consulting,Mumbai Metropolitan Region,2,,Ludhiana,1,,,,,,,,,,,, Consumer Electronics,1
+ IT Services and IT Consulting,Surat,2,,Mangaluru,1,,,,,,,,,,,, Consumer Services,1
+ IT Services and IT Consulting,Jaipur,2,,Mohali district,1,,,,,,,,,,,, Design Services,1
+ IT Services and IT Consulting,Nagpur,2,,Mumbai,22,,,,,,,,,,,, Education,1
+ IT Services and IT Consulting,Kalyan,2,,Mumbai Metropolitan Region,4,,,,,,,,,,,, Education Administration Programs,2
+ IT Services and IT Consulting,Ludhiana,2,,Nagpur,1,,,,,,,,,,,, Education Management,1
+ IT Services and IT Consulting,Patna,2,,Navi Mumbai,4,,,,,,,,,,,, E-Learning Providers,2
+ Financial Services,Noida,2,,New Delhi,12,,,,,,,,,,,, Farming,1
+ IT Services and IT Consulting,Thiruvananthapuram,2,,Noida,12,,,,,,,,,,,, Financial Services,6
+ Apparel & Fashion,Mumbai,2,,Patna,1,,,,,,,,,,,, Government Administration,1
+ Human Resources Services,Mumbai,2,,Pimpri Chinchwad,1,,,,,,,,,,,, Higher Education,4
+ Non-profit Organizations,Pune,2,,Pune,18,,,,,,,,,,,, Human Resources,2
+ Banking,Mumbai Metropolitan Region,2,,Pune/Pimpri-Chinchwad Area,2,,,,,,,,,,,, Human Resources Services,9
+ Financial Services,Mumbai,2,,Raipur,1,,,,,,,,,,,, Industrial Machinery Manufacturing,1
+ Information Technology & Services,Pune/Pimpri-Chinchwad Area,2,,Rajkot,2,,,,,,,,,,,, Information Services,5
+ Financial Services,Hyderabad,2,,Sahibzada Ajit Singh Nagar,1,,,,,,,,,,,, Information Technology & Services,11
+ IT Services and IT Consulting,Kochi,2,,Silao,1,,,,,,,,,,,, Insurance,3
+ IT Services and IT Consulting,Lucknow,2,,Srinagar,1,,,,,,,,,,,, International Trade and Development,1
+ Medical Device,Vapi,2,,Sriperumbudur,1,,,,,,,,,,,, Internet Publishing,2
+ Information Services,Hyderabad,2,,Surat,1,,,,,,,,,,,, IT Services and IT Consulting,35
+ Information Technology & Services,Gurugram,2,,Thane,1,,,,,,,,,,,, Law Practice,1
+ IT Services and IT Consulting,Sahibzada Ajit Singh Nagar,2,,Thiruvananthapuram,1,,,,,,,,,,,, Manufacturing,2
+ Law Practice,Hyderabad,2,,Trivandrum,1,,,,,,,,,,,, Maritime,1
+ Advertising Services,Mumbai,2,,Vadodara,2,,,,,,,,,,,, Market Research,3
+ Computers and Electronics Manufacturing,Mumbai,2,,Vapi,1,,,,,,,,,,,, Marketing Services,3
+ Outsourcing and Offshoring Consulting,Pune,2,,Visakhapatnam,1,,,,,,,,,,,, Medical Device,1
+ Marketing Services,Mumbai,2,,Vishakhapatnam,3,,,,,,,,,,,, Medical Equipment Manufacturing,2
+ Information Technology & Services,Noida,2,,(blank),,,,,,,,,,,,, Motor Vehicle Manufacturing,4
+ Information Services,Pune,2,,Grand Total,132,,,,,,,,,,,, Movies Videos and Sound,1
+ Motor Vehicle Manufacturing,Noida,2,,,,,,,,,,,,,,, Non-profit Organizations,2
+ Accounting,Mumbai,2,,,,,,,,,,,,,,, Outsourcing and Offshoring Consulting,1
+ Human Resources Services,Gurugram,2,,,,,,,,,,,,,,,(blank),
+ Information Technology & Services,Kozhikode,2,,,,,,,,,,,,,,,Grand Total,132
+ IT Services and IT Consulting,Gurgaon,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Rajkot,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Kanpur,2,,,,,,,,,,,,,,,,
+ Business Consulting and Services,Pune,2,,,,,,,,,,,,,,,,
+ Insurance,Mumbai,2,,,,,,,,,,,,,,,,
+ Motor Vehicle Manufacturing,Pune,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Pune/Pimpri-Chinchwad Area,2,,,,,,,,,,,,,,,,
+ Human Resources Services,Mumbai Metropolitan Region,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Pimpri Chinchwad,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Indore,2,,,,,,,,,,,,,,,,
+ Market Research,Pune,2,,,,,,,,,,,,,,,,
+ Information Technology & Services,Mumbai,2,,,,,,,,,,,,,,,,
+ Computer Networking Products,Pune,2,,,,,,,,,,,,,,,,
+ Education Administration Programs,Noida,2,,,,,,,,,,,,,,,,
+ Advertising Services,New Delhi,2,,,,,,,,,,,,,,,,
+ Human Resources Services,Noida,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Srinagar,2,,,,,,,,,,,,,,,,
+ Information Technology & Services,New Delhi,2,,,,,,,,,,,,,,,,
+ Information Technology & Services,Vishakhapatnam,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Visakhapatnam,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Thane,2,,,,,,,,,,,,,,,,
+ Manufacturing,Gurugram,2,,,,,,,,,,,,,,,,
+ Human Resources Services,Vishakhapatnam,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Vadodara,2,,,,,,,,,,,,,,,,
+ Information Services,Vadodara,2,,,,,,,,,,,,,,,,
+ Information Technology & Services,Jammu,2,,,,,,,,,,,,,,,,
+ Higher Education,Gurugram,2,,,,,,,,,,,,,,,,
+ Consumer Electronics,Mumbai,2,,,,,,,,,,,,,,,,
+ Information Technology & Services,Jaipur,2,,,,,,,,,,,,,,,,
+ Business Consulting and Services,Navi Mumbai,2,,,,,,,,,,,,,,,,
+ Internet Publishing,Gurugram,2,,,,,,,,,,,,,,,,
+ Information Services,Mumbai,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Jamshedpur,2,,,,,,,,,,,,,,,,
+ Education,Noida,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Trivandrum,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Navi Mumbai,2,,,,,,,,,,,,,,,,
+ Human Resources,Mumbai,2,,,,,,,,,,,,,,,,
+ Internet Publishing,Pune,2,,,,,,,,,,,,,,,,
+ Design Services,Mumbai,2,,,,,,,,,,,,,,,,
+ International Trade and Development,Mumbai,2,,,,,,,,,,,,,,,,
+ Education Management,Kolkata,2,,,,,,,,,,,,,,,,
+ Consumer Services,Mumbai,2,,,,,,,,,,,,,,,,
+ Construction,Mumbai,2,,,,,,,,,,,,,,,,
+ Manufacturing,Mumbai,2,,,,,,,,,,,,,,,,
+ Business Consulting and Services,Noida,2,,,,,,,,,,,,,,,,
+ Financial Services,New Delhi,2,,,,,,,,,,,,,,,,
+ Computer Games,Mumbai,2,,,,,,,,,,,,,,,,
+ Human Resources Services,Hyderabad,2,,,,,,,,,,,,,,,,
+ Information Services,Indore,2,,,,,,,,,,,,,,,,
+ Motor Vehicle Manufacturing,Silao,2,,,,,,,,,,,,,,,,
+ Maritime,Mumbai,2,,,,,,,,,,,,,,,,
+ Civil Engineering,Navi Mumbai,2,,,,,,,,,,,,,,,,
+ Computer and Network Security,Kochi,2,,,,,,,,,,,,,,,,
+ Accounting,Mumbai Metropolitan Region,2,,,,,,,,,,,,,,,,
+ Movies Videos and Sound,Pune,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Mohali district,2,,,,,,,,,,,,,,,,
+ Higher Education,New Delhi,2,,,,,,,,,,,,,,,,
+ Non-profit Organizations,New Delhi,2,,,,,,,,,,,,,,,,
+ Human Resources Services,New Delhi,2,,,,,,,,,,,,,,,,
+ Marketing Services,Gurugram,2,,,,,,,,,,,,,,,,
+ Higher Education,Noida,2,,,,,,,,,,,,,,,,
+ Insurance,Hyderabad,2,,,,,,,,,,,,,,,,
+ Motor Vehicle Manufacturing,New Delhi,2,,,,,,,,,,,,,,,,
+ Broadcast Media Production and Distribution,Noida,2,,,,,,,,,,,,,,,,
+ Education Administration Programs,New Delhi,2,,,,,,,,,,,,,,,,
+ Insurance,Gurugram,2,,,,,,,,,,,,,,,,
+ E-Learning Providers,New Delhi,2,,,,,,,,,,,,,,,,
+ Advertising Services,Pune,2,,,,,,,,,,,,,,,,
+ Human Resources Services,Jaipur,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Mangaluru,2,,,,,,,,,,,,,,,,
+ Farming,Pune,2,,,,,,,,,,,,,,,,
+ Medical Equipment Manufacturing,Pune,2,,,,,,,,,,,,,,,,
+ Market Research,Gurugram,2,,,,,,,,,,,,,,,,
+ Industrial Machinery Manufacturing,Pune,2,,,,,,,,,,,,,,,,
+ Medical Equipment Manufacturing,New Delhi,2,,,,,,,,,,,,,,,,
+ Human Resources,Navi Mumbai,2,,,,,,,,,,,,,,,,
+ Higher Education,Hyderabad,2,,,,,,,,,,,,,,,,
+ Automation Machinery Manufacturing,Noida,2,,,,,,,,,,,,,,,,
+ Government Administration,New Delhi,2,,,,,,,,,,,,,,,,
+ Financial Services,Rajkot,2,,,,,,,,,,,,,,,,
+ Business Consulting and Services,Kolkata,2,,,,,,,,,,,,,,,,
+ E-Learning Providers,Raipur,2,,,,,,,,,,,,,,,,
+ Marketing Services,Pune,2,,,,,,,,,,,,,,,,
+ Banking,Mumbai,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Vishakhapatnam,2,,,,,,,,,,,,,,,,
+ IT Services and IT Consulting,Sriperumbudur,2,,,,,,,,,,,,,,,,
